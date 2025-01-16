@@ -1120,7 +1120,7 @@ private extension DocumentsViewController {
 			title = .deleteOutlinesPrompt(outlineCount: documents.count)
             message = .deleteOutlinesMessage
         } else {
-			title = .deleteOutlinePrompt(outlineName: documents.first?.title ?? "")
+			title = .deleteOutlinePrompt(outlineTitle: documents.first?.title ?? "")
             message = .deleteOutlineMessage
         }
         

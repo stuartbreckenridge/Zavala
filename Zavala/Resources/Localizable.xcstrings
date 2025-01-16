@@ -4,9 +4,6 @@
     "" : {
 
     },
-    "(No Title)" : {
-      "comment" : "Title Label: (No Title)"
-    },
     "%@ at %@" : {
       "comment" : "Timestame Label: Created\nTimestame Label: Updated",
       "localizations" : {
@@ -18,11 +15,16 @@
         }
       }
     },
-    "%lld documents" : {
-      "comment" : "Title: number of documents"
-    },
-    "About Zavala" : {
-      "comment" : "Control Label: About Zavala"
+    "accessibility.text.complete" : {
+      "comment" : "Accessibility Label: Complete",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Complete"
+          }
+        }
+      }
     },
     "Account Type" : {
 
@@ -30,14 +32,1163 @@
     "Accounts" : {
       "comment" : "Control Label: Accounts"
     },
-    "Acknowledgements" : {
-      "comment" : "Control Label: Acknowledgements"
+    "action.test.jump-to-note" : {
+      "comment" : "Action: Jump to Note"
     },
-    "Actual Size" : {
-      "comment" : "Control Label: Actual Size"
+    "action.text.actual-size" : {
+      "comment" : "View Action: Actual Size",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actual Size"
+          }
+        }
+      }
     },
-    "Add" : {
-      "comment" : "Control Label: Add"
+    "action.text.add" : {
+      "comment" : "Outline Action: Add",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        }
+      }
+    },
+    "action.text.add-note" : {
+      "comment" : "Outline Action: Add Note",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Note"
+          }
+        }
+      }
+    },
+    "action.text.add-note-level" : {
+      "comment" : "Action: Add Note Level",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Note Level"
+          }
+        }
+      }
+    },
+    "action.text.add-numbering-level" : {
+      "comment" : "Action: Add Numbering Level",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Numbering Level"
+          }
+        }
+      }
+    },
+    "action.text.add-row" : {
+      "comment" : "Outline Action: Add Row",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row"
+          }
+        }
+      }
+    },
+    "action.text.add-row-above" : {
+      "comment" : "Outline Action: Add Row Above",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row Above"
+          }
+        }
+      }
+    },
+    "action.text.add-row-after" : {
+      "comment" : "Outline Action: Add Row After",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row After"
+          }
+        }
+      }
+    },
+    "action.text.add-row-below" : {
+      "comment" : "Outline Action: Add Row Below",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row Below"
+          }
+        }
+      }
+    },
+    "action.text.add-row-inside" : {
+      "comment" : "Outline Action: Add Row Inside",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row Inside"
+          }
+        }
+      }
+    },
+    "action.text.add-row-outside" : {
+      "comment" : "Outline Action: Add Row Outside",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row Outside"
+          }
+        }
+      }
+    },
+    "action.text.add-tag" : {
+      "comment" : "Outline Action: Add Tag",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Tag"
+          }
+        }
+      }
+    },
+    "action.text.add-topic-level" : {
+      "comment" : "Outline Action: Add Topic Level",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Topic Level"
+          }
+        }
+      }
+    },
+    "action.text.always-delete-without-asking" : {
+      "comment" : "Delete Action: Always Delete Without Asking",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always Delete Without Asking"
+          }
+        }
+      }
+    },
+    "action.text.ascending" : {
+      "comment" : "Sort Action: Ascending",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ascending"
+          }
+        }
+      }
+    },
+    "action.text.automatic-color-palette" : {
+      "comment" : "Set App Color Palette Action: Automatic",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatic"
+          }
+        }
+      }
+    },
+    "action.text.back" : {
+      "comment" : "Navigation Action: Back",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        }
+      }
+    },
+    "action.text.cancel" : {
+      "comment" : "Action: Cancel",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "action.text.change-link-titles-automatically" : {
+      "comment" : "Set Default Action: Change Link Titles Automatically",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Link Titles Automatically"
+          }
+        }
+      }
+    },
+    "action.text.check-spelling-while-typing" : {
+      "comment" : "Set Default Action: Check Spelling While Typing",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check Spelling While Typing"
+          }
+        }
+      }
+    },
+    "action.text.collapse" : {
+      "comment" : "Outline Action: Collapse",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse"
+          }
+        }
+      }
+    },
+    "action.text.collapse-all" : {
+      "comment" : "Outline Action: Collapse All",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse"
+          }
+        }
+      }
+    },
+    "action.text.collapse-all-in-outline" : {
+      "comment" : "Outline Action: Collapse All in Outline",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse All in Outline"
+          }
+        }
+      }
+    },
+    "action.text.collapse-all-in-row" : {
+      "comment" : "Outline Action: Collapse All in Row",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse All in Row"
+          }
+        }
+      }
+    },
+    "action.text.copy" : {
+      "comment" : "Action: Copy",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
+        }
+      }
+    },
+    "action.text.copy-document-link" : {
+      "comment" : "Document Action: Copy Document Link",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Document Link"
+          }
+        }
+      }
+    },
+    "action.text.copy-document-links" : {
+      "comment" : "Document Action: Copy Document Links",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Document Links"
+          }
+        }
+      }
+    },
+    "action.text.copy-row-link" : {
+      "comment" : "Document Action: Copy Row Link",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Row Link"
+          }
+        }
+      }
+    },
+    "action.text.correct-spelling-automatically" : {
+      "comment" : "Default Action: Correct Spelling Automatically",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correct Spelling Automatically"
+          }
+        }
+      }
+    },
+    "action.text.create-links-automatically" : {
+      "comment" : "Set Default Action: Create Links Automatically",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create Links Automatically"
+          }
+        }
+      }
+    },
+    "action.text.cut" : {
+      "comment" : "Action: Cut",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cut"
+          }
+        }
+      }
+    },
+    "action.text.delete" : {
+      "comment" : "Action: Delete",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "action.text.delete-note" : {
+      "comment" : "Action: Delete Note",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Note"
+          }
+        }
+      }
+    },
+    "action.text.delete-once" : {
+      "comment" : "Action: Delete Once",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Once"
+          }
+        }
+      }
+    },
+    "action.text.delete-outline" : {
+      "comment" : "Action: Delete Outline",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Outline"
+          }
+        }
+      }
+    },
+    "action.text.delete-outline-message" : {
+      "comment" : "Alert Message: The outline will be deleted and unrecoverable.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The outline will be deleted and unrecoverable."
+          }
+        }
+      }
+    },
+    "action.text.delete-outlines-message" : {
+      "comment" : "Alert Message: The outlines will be deleted and unrecoverable.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The outlines will be deleted and unrecoverable."
+          }
+        }
+      }
+    },
+    "action.text.delete-row" : {
+      "comment" : "Action: Delete Row",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Row"
+          }
+        }
+      }
+    },
+    "action.text.delete-rows" : {
+      "comment" : "Action: Delete Rows",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Rows"
+          }
+        }
+      }
+    },
+    "action.text.delete-tag-message." : {
+      "comment" : "Alert Message: Any child Tag associated with this Tag will also be deleted. No Outlines associated with this Tag will be deleted.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Any child Tag associated with this Tag will also be deleted. No Outlines associated with this Tag will be deleted."
+          }
+        }
+      }
+    },
+    "action.text.delete-tags-message." : {
+      "comment" : "Alert Message: Any child Tag associated with these Tags will also be deleted. No Outlines associated with these Tags will be deleted.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Any child Tag associated with these Tags will also be deleted. No Outlines associated with these Tags will be deleted."
+          }
+        }
+      }
+    },
+    "action.text.descending" : {
+      "comment" : "Action: Descending",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descending"
+          }
+        }
+      }
+    },
+    "action.text.disable-animations" : {
+      "comment" : "Action: Disable Animations",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Animations"
+          }
+        }
+      }
+    },
+    "action.text.duplicate" : {
+      "comment" : "Action: Duplicate",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplicate"
+          }
+        }
+      }
+    },
+    "action.text.duplicate-row" : {
+      "comment" : "Action: Duplicate Row",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplicate Row"
+          }
+        }
+      }
+    },
+    "action.text.duplicate-rows" : {
+      "comment" : "Label: Duplicate Rows",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplicate Rows"
+          }
+        }
+      }
+    },
+    "action.text.enable-icloud" : {
+      "comment" : "Label: Enable iCloud",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable iCloud"
+          }
+        }
+      }
+    },
+    "action.text.enable-ipad" : {
+      "comment" : "Label: Enable On My iPad",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable On My iPad"
+          }
+        }
+      }
+    },
+    "action.text.enable-iphone" : {
+      "comment" : "Label: Enable On My iPhone",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable On My iPhone"
+          }
+        }
+      }
+    },
+    "action.text.enable-mac" : {
+      "comment" : "Label: Enable On My Mac",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable On My Mac"
+          }
+        }
+      }
+    },
+    "action.text.expand" : {
+      "comment" : "Action: Expand",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expand"
+          }
+        }
+      }
+    },
+    "action.text.expand-all" : {
+      "comment" : "Action: Expand All",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expand All"
+          }
+        }
+      }
+    },
+    "action.text.expand-all-in-outline" : {
+      "comment" : "Action: Expand All in Outline",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expand All in Outline"
+          }
+        }
+      }
+    },
+    "action.text.expand-all-in-row" : {
+      "comment" : "Action: Expand All in Row",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expand All in Row"
+          }
+        }
+      }
+    },
+    "action.text.export" : {
+      "comment" : "Action: Export",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        }
+      }
+    },
+    "action.text.export-markdown-doc-with-ellipsis" : {
+      "comment" : "Action: Export Markdown Doc…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Markdown Doc…"
+          }
+        }
+      }
+    },
+    "action.text.export-markdown-list-with-ellipsis" : {
+      "comment" : "Action: Export Markdown List…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Markdown List…"
+          }
+        }
+      }
+    },
+    "action.text.export-opml-ellipsis" : {
+      "comment" : "Action: Export OPML…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export OPML…"
+          }
+        }
+      }
+    },
+    "action.text.export-pdf-doc-with-ellipsis" : {
+      "comment" : "Action: Export PDF Doc…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export PDF Doc…"
+          }
+        }
+      }
+    },
+    "action.text.export-pdf-list-with-ellipsis" : {
+      "comment" : "Action: Export PDF List…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export PDF List…"
+          }
+        }
+      }
+    },
+    "action.text.filter" : {
+      "comment" : "Action: Filter",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        }
+      }
+    },
+    "action.text.filter-notes" : {
+      "comment" : "Action: Filter Notes",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter Notes"
+          }
+        }
+      }
+    },
+    "action.text.find" : {
+      "comment" : "Action: Find",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find"
+          }
+        }
+      }
+    },
+    "action.text.find-next" : {
+      "comment" : "Action: Find Next",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find Next"
+          }
+        }
+      }
+    },
+    "action.text.find-previous" : {
+      "comment" : "Action: Find Previous",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find Previous"
+          }
+        }
+      }
+    },
+    "action.text.find-with-ellipsis" : {
+      "comment" : "Action: Find…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find…"
+          }
+        }
+      }
+    },
+    "action.text.fix-it" : {
+      "comment" : "Action: Fix It",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fix It"
+          }
+        }
+      }
+    },
+    "action.text.focus-in" : {
+      "comment" : "Action: Focus In",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus In"
+          }
+        }
+      }
+    },
+    "action.text.focus-out" : {
+      "comment" : "Action: Focus Out",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus Out"
+          }
+        }
+      }
+    },
+    "action.text.forward" : {
+      "comment" : "Action: Forward",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forward"
+          }
+        }
+      }
+    },
+    "action.text.full-width" : {
+      "comment" : "Action: Full Width",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full Width"
+          }
+        }
+      }
+    },
+    "action.text.general" : {
+      "comment" : "Action: General",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        }
+      }
+    },
+    "action.text.get-info" : {
+      "comment" : "Action: Get Info",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Info"
+          }
+        }
+      }
+    },
+    "action.text.go-backward" : {
+      "comment" : "Action: Go Backward",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go Backward"
+          }
+        }
+      }
+    },
+    "action.text.go-forward" : {
+      "comment" : "Action: Go Forward",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go Forward"
+          }
+        }
+      }
+    },
+    "action.text.group-row" : {
+      "comment" : "Action: Group Row",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Group Row"
+          }
+        }
+      }
+    },
+    "action.text.group-rows" : {
+      "comment" : "Action: Group Rows",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Group Rows"
+          }
+        }
+      }
+    },
+    "action.text.hide-keyboard" : {
+      "comment" : "Action: Hide Keyboard",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Keyboard"
+          }
+        }
+      }
+    },
+    "action.text.import-opml" : {
+      "comment" : "Action: Import OPML",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import OPML"
+          }
+        }
+      }
+    },
+    "action.text.import-opml-with-ellipsis" : {
+      "comment" : "Action: Import OPML…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import OPML…"
+          }
+        }
+      }
+    },
+    "action.text.insert-image" : {
+      "comment" : "Action: Insert Image",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insert Image"
+          }
+        }
+      }
+    },
+    "action.text.insert-image-with-ellipsis" : {
+      "comment" : "Label: Insert Image…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insert Image…"
+          }
+        }
+      }
+    },
+    "action.text.italic" : {
+      "comment" : "Set Font Action: Italic",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Italic"
+          }
+        }
+      }
+    },
+    "action.text.jump-to-topic" : {
+      "comment" : "Action: Jump to Topic",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jump to Topic"
+          }
+        }
+      }
+    },
+    "action.text.large" : {
+      "comment" : "Action: Large",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Large"
+          }
+        }
+      }
+    },
+    "action.text.light" : {
+      "comment" : "Set App Appearance Action: Light",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
+          }
+        }
+      }
+    },
+    "action.text.medium" : {
+      "comment" : "Set Appearance Action: Medium",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medium"
+          }
+        }
+      }
+    },
+    "action.text.mint" : {
+      "comment" : "Set Font Color Action: Mint",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mibt"
+          }
+        }
+      }
+    },
+    "action.text.move-down" : {
+      "comment" : "Action: Move Down",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Down"
+          }
+        }
+      }
+    },
+    "action.text.move-left" : {
+      "comment" : "Action: Move Left",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Left"
+          }
+        }
+      }
+    },
+    "action.text.move-right" : {
+      "comment" : "Action: Move Right",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Right"
+          }
+        }
+      }
+    },
+    "action.text.move-up" : {
+      "comment" : "Action: Move Up",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Up"
+          }
+        }
+      }
+    },
+    "action.text.new-outline" : {
+      "comment" : "Action: New Outline",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Outline"
+          }
+        }
+      }
+    },
+    "action.text.next-result" : {
+      "comment" : "Action: Next Result",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next Result"
+          }
+        }
+      }
+    },
+    "action.text.normal" : {
+      "comment" : "Label: Normal",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal"
+          }
+        }
+      }
+    },
+    "action.text.open-quickly" : {
+      "comment" : "Action: Open Quickly",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Quickly"
+          }
+        }
+      }
+    },
+    "action.text.open-quickly-with-ellipsis" : {
+      "comment" : "Action: Open Quickly…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Quickly…"
+          }
+        }
+      }
+    },
+    "action.text.provide-feedback" : {
+      "comment" : "Action: Provide Feedback",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provide Feedback"
+          }
+        }
+      }
+    },
+    "action.text.set-appearance-dark" : {
+      "comment" : "Set App Color Palette Action: Dark",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark"
+          }
+        }
+      }
+    },
+    "action.text.set-font-blue" : {
+      "comment" : "Set Font Color Action: Blue",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blue"
+          }
+        }
+      }
+    },
+    "action.text.set-font-bold" : {
+      "comment" : "Set Font Weight Action: Bold",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bold"
+          }
+        }
+      }
+    },
+    "action.text.set-font-brown" : {
+      "comment" : "Set Font Color Action: Brown",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brown"
+          }
+        }
+      }
+    },
+    "action.text.set-font-cyan" : {
+      "comment" : "Set Font Color Action: Cyan",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cyan"
+          }
+        }
+      }
+    },
+    "action.text.set-font-green" : {
+      "comment" : "Set Font Color Action: Green",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Green"
+          }
+        }
+      }
+    },
+    "action.text.set-font-indigo" : {
+      "comment" : "Set Font Color Action: Indigo",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indigo"
+          }
+        }
+      }
     },
     "Add %@ to %@" : {
       "localizations" : {
@@ -68,15 +1219,6 @@
     "Add a Tag to the given Outline." : {
 
     },
-    "Add Note" : {
-      "comment" : "Control Label: Add Note"
-    },
-    "Add Note Level" : {
-      "comment" : "Control Label: Add Note Level"
-    },
-    "Add Numbering Level" : {
-      "comment" : "Control Label: The menu option to add a new Numbering Level."
-    },
     "Add Outline" : {
 
     },
@@ -96,50 +1238,17 @@
     "Add Outline titled ${title} to ${accountType}" : {
 
     },
-    "Add Row" : {
-      "comment" : "Control Label: Add Row"
-    },
-    "Add Row Above" : {
-      "comment" : "Control Label: Add Row Above"
-    },
-    "Add Row After" : {
-      "comment" : "Control Label: Add Row After"
-    },
-    "Add Row Below" : {
-      "comment" : "Control Label: Add Row Below"
-    },
-    "Add Row Inside" : {
-      "comment" : "Control Label: Add Row Inside"
-    },
-    "Add Row Outside" : {
-      "comment" : "Control Label: Add Row Outside"
-    },
     "Add Rows" : {
 
     },
     "Add Rows to an Outline." : {
 
     },
-    "Add Tag" : {
-      "comment" : "Control Label: Add Tag."
-    },
-    "Add Topic Level" : {
-      "comment" : "Control Label: The menu option to add a new Topic Level."
-    },
     "Adds an Outline." : {
 
     },
-    "Always Delete Without Asking" : {
-      "comment" : "Control Label: Always Delete Without Asking"
-    },
     "An unexpected error occurred. Please try again." : {
 
-    },
-    "Any child Tag associated with these Tags will also be deleted. No Outlines associated with these Tags will be deleted." : {
-      "comment" : "Alert Message: delete tags"
-    },
-    "Any child Tag associated with this Tag will also be deleted. No Outlines associated with this Tag will be deleted." : {
-      "comment" : "Alert Message: delete tag"
     },
     "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)" : {
 
@@ -147,17 +1256,8 @@
     "Are you sure you want to delete %lld outlines?" : {
       "comment" : "Confirmation: delete outlines?"
     },
-    "Are you sure you want to delete %lld tags?" : {
-      "comment" : "Confirmation: delete tags?"
-    },
     "Are you sure you want to delete the “%@” outline?" : {
       "comment" : "Confirmation: delete outline?"
-    },
-    "Are you sure you want to delete the “%@” tag?" : {
-      "comment" : "Confirmation: delete tag?"
-    },
-    "Are you sure you want to delete the completed rows?" : {
-      "comment" : "Alert Message: Delete Completed Rows"
     },
     "Are you sure you want to remove the iCloud Account? All documents in the iCloud Account will be removed from this computer." : {
       "comment" : "Alert Message: message for removing an iCloud Account"
@@ -165,80 +1265,17 @@
     "Are you sure you want to restore the defaults? All your font customizations will be lost." : {
       "comment" : "Alert: information for restoring font defaults"
     },
-    "Ascending" : {
-      "comment" : "Control Label: Ascending"
-    },
-    "Automatic" : {
-      "comment" : "Control Label: Automatic"
-    },
-    "Back" : {
-      "comment" : "Control Label: Back"
-    },
-    "Backlinks" : {
-      "comment" : "Font Label: Backlinks"
-    },
-    "Blue" : {
-      "comment" : "Control Label: Blue"
-    },
-    "Bold" : {
-      "comment" : "Control Label: Bold"
-    },
-    "Brown" : {
-      "comment" : "Control Label: Brown"
-    },
-    "Bug Tracker" : {
-      "comment" : "Control Label: Bug Tracker"
-    },
-    "Cancel" : {
-      "comment" : "Control Label: Cancel the proposed action"
-    },
-    "Change Link Titles Automatically" : {
-      "comment" : "Control Label: Auto Linking"
-    },
-    "Check Spelling While Typing" : {
-      "comment" : "Control Label: Check Spelling While Typing"
-    },
     "Close" : {
       "comment" : "Close"
     },
-    "Collaborate" : {
-      "comment" : "Control Label: Collaborate"
-    },
-    "Collaborate…" : {
-      "comment" : "Control Label: Collaborate…"
-    },
-    "Collapse" : {
-      "comment" : "Control Label: Collapse"
-    },
-    "Collapse All" : {
-      "comment" : "Control Label: Collapse All"
-    },
-    "Collapse All in Outline" : {
-      "comment" : "Control Label: Collapse All in Outline"
-    },
-    "Collapse All in Row" : {
-      "comment" : "Control Label: Collapse All in Row"
-    },
-    "Collapse Parent Row" : {
-      "comment" : "Control Label: Collapse Parent Row"
-    },
     "Collapsed" : {
 
-    },
-    "Color Palette" : {
-      "comment" : "Control Label: Color Palette"
-    },
-    "Community Discussion" : {
-      "comment" : "Control Label: Community Discussion"
     },
     "Complete" : {
       "comment" : "Accessibility Label: Complete\nControl Label: Complete"
     },
     "Completion State" : {
 
-    },
-    "Copy" : {
-      "comment" : "Control Label: Copy"
     },
     "Copy %@ to %@ at %@" : {
       "localizations" : {
@@ -253,15 +1290,6 @@
     "Copy ${rows} to ${entityID} at ${destination}" : {
 
     },
-    "Copy Document Link" : {
-      "comment" : "Control Label: Copy Document Link"
-    },
-    "Copy Document Links" : {
-      "comment" : "Control Label: Copy Document Links"
-    },
-    "Copy Row Link" : {
-      "comment" : "Control Label: Copy Row Link"
-    },
     "Copy Rows" : {
 
     },
@@ -269,16 +1297,15 @@
 
     },
     "Copyright © Vincode, Inc. 2020-%@" : {
-      "comment" : "About Box copyright information"
-    },
-    "Correct Spelling Automatically" : {
-      "comment" : "Control Label: Correct Spelling Automatically"
-    },
-    "Corrupted Outline" : {
-      "comment" : "Alert Title: Corrupted Outline"
-    },
-    "Create Links Automatically" : {
-      "comment" : "Control Label: Automatically Create Links"
+      "comment" : "About Box copyright information",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A"
+          }
+        }
+      }
     },
     "Created" : {
       "comment" : "Control Label: Created"
@@ -289,47 +1316,11 @@
     "Created Start Date" : {
 
     },
-    "Cut" : {
-      "comment" : "Control Label: Cut"
-    },
-    "Cyan" : {
-      "comment" : "Control Label: Cyan"
-    },
-    "Dark" : {
-      "comment" : "Control Label: Dark"
-    },
-    "Delete" : {
-      "comment" : "Control Label: Delete an entity"
-    },
-    "Delete Completed" : {
-      "comment" : "Control Label: Delete Completed Rows"
-    },
-    "Delete Completed Rows" : {
-      "comment" : "Alert Title: Delete Completed Rows"
-    },
-    "Delete Note" : {
-      "comment" : "Control Label: Delete Note"
-    },
-    "Delete Once" : {
-      "comment" : "Control Label: Delete Once"
-    },
-    "Delete Outline" : {
-      "comment" : "Control Label: Delete Outline"
-    },
-    "Delete Row" : {
-      "comment" : "Control Label: Delete Row"
-    },
-    "Delete Rows" : {
-      "comment" : "Control Label: Delete Rows"
-    },
     "Delete the specified Rows." : {
 
     },
     "Deletes an Outline." : {
 
-    },
-    "Descending" : {
-      "comment" : "Control Label: Descending"
     },
     "Destination" : {
 
@@ -343,24 +1334,6 @@
     "Directly After" : {
 
     },
-    "Disable Animations" : {
-      "comment" : "Control Label: Disable Animations"
-    },
-    "Document Not Found" : {
-      "comment" : "Alert Title: Document Not Found"
-    },
-    "Done" : {
-      "comment" : "Control Label: Done"
-    },
-    "Duplicate" : {
-      "comment" : "Control Label: Duplicate"
-    },
-    "Duplicate Row" : {
-      "comment" : "Control Label: Duplicate Row"
-    },
-    "Duplicate Rows" : {
-      "comment" : "Control Label: Duplicate Rows"
-    },
     "Edit document “%@”" : {
       "comment" : "Prompt: edit document"
     },
@@ -370,47 +1343,14 @@
     "Edit Rows" : {
 
     },
-    "Editor" : {
-      "comment" : "Control Label: Editor"
-    },
-    "Email" : {
-      "comment" : "Control Label: Email"
-    },
-    "Enable iCloud" : {
-      "comment" : "Control Label: Enable iCloud"
-    },
-    "Enable On My iPad" : {
-      "comment" : "Control Label: Enable On My iPad"
-    },
-    "Enable On My iPhone" : {
-      "comment" : "Control Label: Enable On My iPhone"
-    },
-    "Enable On My Mac" : {
-      "comment" : "Control Label: Enable On My Mac"
-    },
     "End Depth" : {
 
     },
     "Entity ID" : {
 
     },
-    "Error" : {
-      "comment" : "Alert Title: Error"
-    },
     "Excluded Rows" : {
 
-    },
-    "Expand" : {
-      "comment" : "Control Label: Expand"
-    },
-    "Expand All" : {
-      "comment" : "Control Label: Expand All"
-    },
-    "Expand All in Outline" : {
-      "comment" : "Control Label: Expand All in Outline"
-    },
-    "Expand All in Row" : {
-      "comment" : "Control Label: Expand All in Row"
     },
     "Expanded" : {
 
@@ -419,25 +1359,25 @@
 
     },
     "Export" : {
-      "comment" : "Control Label: Export"
+      "comment" : "Control Label: Export",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        }
+      }
     },
     "Export Link Type" : {
-
-    },
-    "Export Markdown Doc…" : {
-      "comment" : "Control Label: Export Markdown Doc…"
-    },
-    "Export Markdown List…" : {
-      "comment" : "Control Label: Export Markdown List…"
-    },
-    "Export OPML…" : {
-      "comment" : "Control Label: Export OPML…"
-    },
-    "Export PDF Doc…" : {
-      "comment" : "Control Label: Export PDF Doc…"
-    },
-    "Export PDF List…" : {
-      "comment" : "Control Label: Export PDF List…"
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Link Type"
+          }
+        }
+      }
     },
     "Export the %@ as %@ using %@" : {
       "localizations" : {
@@ -458,51 +1398,6 @@
     "Export Type" : {
 
     },
-    "Filter" : {
-      "comment" : "Control Label: Filter"
-    },
-    "Filter Completed" : {
-      "comment" : "Control Label: Filter Completed"
-    },
-    "Filter Notes" : {
-      "comment" : "Control Label: Filter Notes"
-    },
-    "Find" : {
-      "comment" : "Control Label: Find"
-    },
-    "Find Next" : {
-      "comment" : "Control Label: Find Next"
-    },
-    "Find Previous" : {
-      "comment" : "Control Label: Find Previous"
-    },
-    "Find…" : {
-      "comment" : "Control Label: Find…"
-    },
-    "Fix It" : {
-      "comment" : "Control Label: Fix It"
-    },
-    "Focus In" : {
-      "comment" : "Control Label: Focus In"
-    },
-    "Focus Out" : {
-      "comment" : "Control Label: Focus Out"
-    },
-    "Fonts" : {
-      "comment" : "Control Label: Fonts"
-    },
-    "Format" : {
-      "comment" : "Control Label: Format"
-    },
-    "Forward" : {
-      "comment" : "Control Label: Forward"
-    },
-    "Full Width" : {
-      "comment" : "Control Label: Full Width"
-    },
-    "General" : {
-      "comment" : "Control Label: General"
-    },
     "Get Current Outline" : {
 
     },
@@ -517,9 +1412,6 @@
     },
     "Get Images For Outline" : {
 
-    },
-    "Get Info" : {
-      "comment" : "Control Label: Get Info"
     },
     "Get Outlines" : {
 
@@ -555,56 +1447,27 @@
     "Gets the name of the currently selected Tags if there are any." : {
 
     },
-    "GitHub Repository" : {
-      "comment" : "Control Label: GitHub Repository"
-    },
-    "Go Backward" : {
-      "comment" : "Control Label: Go Backward"
-    },
-    "Go Forward" : {
-      "comment" : "Control Label: Go Forward"
-    },
-    "Green" : {
-      "comment" : "Control Label: Green"
-    },
-    "Group Row" : {
-      "comment" : "Control Label: Group Row"
-    },
-    "Group Rows" : {
-      "comment" : "Control Label: Group Rows"
-    },
-    "Help" : {
-      "comment" : "Control Label: Help"
-    },
-    "Hide Keyboard" : {
-      "comment" : "Control Label: Hide Keyboard"
-    },
-    "History" : {
-      "comment" : "Control Label: History"
-    },
     "iCloud" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud"
+          }
+        }
+      }
     },
     "ID" : {
 
     },
     "Image" : {
-      "comment" : "Control Label: Image"
+      "comment" : "Label: Image"
     },
     "Import" : {
 
     },
     "Import an outline." : {
 
-    },
-    "Import Failed" : {
-      "comment" : "Error Message Title: Import Failed"
-    },
-    "Import OPML" : {
-      "comment" : "Control Label: Import OPML"
-    },
-    "Import OPML…" : {
-      "comment" : "Control Label: Import OPML…"
     },
     "Import the %@ %@ into %@" : {
       "localizations" : {
@@ -622,20 +1485,11 @@
     "Import Type" : {
 
     },
-    "Indigo" : {
-      "comment" : "Control Label: Indigo"
-    },
     "Input File" : {
 
     },
     "Input Images" : {
 
-    },
-    "Insert Image" : {
-      "comment" : "Control Label: Insert Image"
-    },
-    "Insert Image…" : {
-      "comment" : "Control Label: Insert Image…"
     },
     "Inside at End" : {
 
@@ -643,53 +1497,576 @@
     "Inside at Start" : {
 
     },
-    "Italic" : {
-      "comment" : "Control Label: Italic"
+    "label.text.about-zavala" : {
+      "comment" : "Label: About Zavala",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About Zavala"
+          }
+        }
+      }
     },
-    "Jump to Note" : {
-      "comment" : "Control Label: Jump to Note"
+    "label.text.accounts" : {
+      "comment" : "Label: Accounts",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accounts"
+          }
+        }
+      }
     },
-    "Jump to Topic" : {
-      "comment" : "Control Label: Jump to Topic"
+    "label.text.acknowledgements" : {
+      "comment" : "Label: Acknowledgements",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acknowledgements"
+          }
+        }
+      }
     },
-    "Large" : {
-      "comment" : "Control Label: Large"
+    "label.text.backlinks" : {
+      "comment" : "Label: Backlinks",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backlinks"
+          }
+        }
+      }
+    },
+    "label.text.bug-tracker" : {
+      "comment" : "Label: Bug Tracker",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bug Tracker"
+          }
+        }
+      }
+    },
+    "label.text.color-palette" : {
+      "comment" : "Label: Color Palette",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color Palette"
+          }
+        }
+      }
+    },
+    "label.text.community-discussion" : {
+      "comment" : "Label: Community Discussion",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Community Discussion"
+          }
+        }
+      }
+    },
+    "label.text.complete" : {
+      "comment" : "Label: Complete",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Complete"
+          }
+        }
+      }
+    },
+    "label.text.corrupted-outline" : {
+      "comment" : "Label: Corrupted Outline",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corrupted Outline"
+          }
+        }
+      }
+    },
+    "label.text.corrupted-outline-message" : {
+      "comment" : "Alert Message: This outline appears to be corrupted. Would you like to fix it?",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This outline appears to be corrupted. Would you like to fix it?"
+          }
+        }
+      }
+    },
+    "label.text.created" : {
+      "comment" : "Label: Created",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Created"
+          }
+        }
+      }
+    },
+    "label.text.delete-completed" : {
+      "comment" : "Label: Delete Completed Rows",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Completed Rows"
+          }
+        }
+      }
+    },
+    "label.text.delete-completed-rows" : {
+      "comment" : "Label: Delete Completed Rows",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Completed Rows"
+          }
+        }
+      }
+    },
+    "label.text.delete-completed-rows-message" : {
+      "comment" : "Alert Message: Are you sure you want to delete the completed rows?",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete the completed rows?"
+          }
+        }
+      }
+    },
+    "label.text.delete-multiple-tags-confirmation-message-%lld" : {
+      "comment" : "Alert Title: Are you sure you want to delete tagCount tags?",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Are you sure you want to delete %i tag?"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Are you sure you want to delete %i tags?"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "label.text.delete-outline-confirmation-message-%@" : {
+      "comment" : "Alert Title: Are you sure you want to delete the “Outline Title” outline?",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to the ”%@” outline?"
+          }
+        }
+      }
+    },
+    "label.text.delete-tag-confirmation-message-%@" : {
+      "comment" : "Alert Title: Are you sure you want to delete the “Tag Name” tag?",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete the ”%@” tag?"
+          }
+        }
+      }
+    },
+    "label.text.document-not-found" : {
+      "comment" : "Label: Document Not Found",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Document Not Found"
+          }
+        }
+      }
+    },
+    "label.text.document-not-found-message" : {
+      "comment" : "Alert Message: The requested document could not be found. It was most likely deleted and is no longer available.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The requested document could not be found. It was most likely deleted and is no longer available."
+          }
+        }
+      }
+    },
+    "label.text.done" : {
+      "comment" : "Label: Done",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "label.text.editor" : {
+      "comment" : "Label: Editor",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editor"
+          }
+        }
+      }
+    },
+    "label.text.email" : {
+      "comment" : "Label: Email",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        }
+      }
+    },
+    "label.text.error" : {
+      "comment" : "Label: Error",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error"
+          }
+        }
+      }
+    },
+    "label.text.filter-completed" : {
+      "comment" : "Label: Filter Completed",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter Completed"
+          }
+        }
+      }
+    },
+    "label.text.fonts" : {
+      "comment" : "Label: Fonts",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fonts"
+          }
+        }
+      }
+    },
+    "label.text.format" : {
+      "comment" : "Label: Format",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Format"
+          }
+        }
+      }
+    },
+    "label.text.github-repository" : {
+      "comment" : "Label: GitHub Repository",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub Repository"
+          }
+        }
+      }
+    },
+    "label.text.help" : {
+      "comment" : "Label: Help",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        }
+      }
+    },
+    "label.text.history" : {
+      "comment" : "Label: History",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        }
+      }
+    },
+    "label.text.image" : {
+      "comment" : "Label: Image",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image"
+          }
+        }
+      }
+    },
+    "label.text.import-failed" : {
+      "comment" : "Error Message Title: Import Failed",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import Failed"
+          }
+        }
+      }
+    },
+    "label.text.link" : {
+      "comment" : "Label: Link",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Link"
+          }
+        }
+      }
+    },
+    "label.text.link-with-ellipsis" : {
+      "comment" : "Label: Link…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Link..."
+          }
+        }
+      }
+    },
+    "label.text.manage-sharing-with-ellipsis" : {
+      "comment" : "Label: Manage Sharing…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage Sharing..."
+          }
+        }
+      }
+    },
+    "label.text.max-width" : {
+      "comment" : "Label: Max Width",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max Width"
+          }
+        }
+      }
+    },
+    "label.text.more" : {
+      "comment" : "Label: More",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More"
+          }
+        }
+      }
+    },
+    "label.text.move" : {
+      "comment" : "Label: Move",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move"
+          }
+        }
+      }
+    },
+    "label.text.multiple-selections" : {
+      "comment" : "Label: Multiple Selections",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Multiple Selections"
+          }
+        }
+      }
+    },
+    "label.text.name" : {
+      "comment" : "Label: Name",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "label.text.navigation" : {
+      "comment" : "Label: Navigation",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navigation"
+          }
+        }
+      }
+    },
+    "label.text.new-main-window" : {
+      "comment" : "Label: New Main Window",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Main Window"
+          }
+        }
+      }
+    },
+    "label.text.no-selection" : {
+      "comment" : "Label: No Selection",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Selection"
+          }
+        }
+      }
+    },
+    "label.text.no-title" : {
+      "comment" : "Label: (No Title)",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(No Title)"
+          }
+        }
+      }
+    },
+    "label.text.none" : {
+      "comment" : "Label: None",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None"
+          }
+        }
+      }
+    },
+    "label.text.numbering-style" : {
+      "comment" : "Label: Numbering Style",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numbering Style"
+          }
+        }
+      }
+    },
+    "label.text.opml-ownership-description" : {
+      "comment" : "Label: This information is included in OPML documents to attribute ownership.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This information is included in OPML documents to attribute ownership."
+          }
+        }
+      }
+    },
+    "label.text.outline" : {
+      "comment" : "Label: Outline",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outline"
+          }
+        }
+      }
+    },
+    "label.text.outline-defaults" : {
+      "comment" : "Label: Outline Defaults",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outline Defaults"
+          }
+        }
+      }
+    },
+    "label.text.outline-owner" : {
+      "comment" : "Label: Outline Owner",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outline Owner"
+          }
+        }
+      }
+    },
+    "label.text.zavala-help" : {
+      "comment" : "Label: Zavala Help",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zavala Help"
+          }
+        }
+      }
     },
     "Level" : {
 
-    },
-    "Light" : {
-      "comment" : "Control Label: Light"
-    },
-    "Link" : {
-      "comment" : "Control Label: Link"
-    },
-    "Link…" : {
-      "comment" : "Control Label: Link…"
-    },
-    "Manage Sharing…" : {
-      "comment" : "Control Label: Manage Sharing…"
     },
     "Markdown Doc" : {
 
     },
     "Markdown List" : {
 
-    },
-    "Max Width" : {
-      "comment" : "Control Label: Max Width"
-    },
-    "Medium" : {
-      "comment" : "Control Label: Medium"
-    },
-    "Mint" : {
-      "comment" : "Control Label: Mint"
-    },
-    "More" : {
-      "comment" : "Control Label: More"
-    },
-    "Move" : {
-      "comment" : "Control Label: Move"
     },
     "Move %@ to %@ at %@" : {
       "localizations" : {
@@ -704,53 +2081,14 @@
     "Move ${rows} to ${entityID} at ${destination}" : {
 
     },
-    "Move Down" : {
-      "comment" : "Control Label: Move Down"
-    },
-    "Move Left" : {
-      "comment" : "Control Label: Move Left"
-    },
-    "Move Right" : {
-      "comment" : "Control Label: Move Right"
-    },
     "Move Rows" : {
 
     },
     "Move Rows in or between Outlines." : {
 
     },
-    "Move Up" : {
-      "comment" : "Control Label: Move Up"
-    },
-    "Multiple Selections" : {
-      "comment" : "Large Label: Multiple Selections"
-    },
-    "Name" : {
-      "comment" : "Control Label: Name"
-    },
-    "Navigation" : {
-      "comment" : "Control Label: Navigation"
-    },
-    "New Main Window" : {
-      "comment" : "Control Label: New Main Window"
-    },
-    "New Outline" : {
-      "comment" : "Control Label: New Outline"
-    },
-    "Next Result" : {
-      "comment" : "Control Label: Next Result"
-    },
-    "No Selection" : {
-      "comment" : "Large Label: No Selection"
-    },
     "No Tags are currently selected." : {
 
-    },
-    "None" : {
-      "comment" : "Control Label: None"
-    },
-    "Normal" : {
-      "comment" : "Control Label: Normal"
     },
     "Note" : {
 
@@ -761,41 +2099,29 @@
     "Numbering Level %lld" : {
       "comment" : "Font Label: The font for the given Numbering Level"
     },
-    "Numbering Style" : {
-      "comment" : "Control Label: Numbering Style"
-    },
     "On My Device" : {
 
-    },
-    "Open Quickly" : {
-      "comment" : "Search Field Placeholder: Open Quickly"
-    },
-    "Open Quickly…" : {
-      "comment" : "Control Label: Open Quickly…"
     },
     "OPML" : {
 
     },
     "Orange" : {
-      "comment" : "Control Label: Orange"
+      "comment" : "Label: Orange"
     },
     "Outline" : {
-      "comment" : "Control Label: Outline"
-    },
-    "Outline Defaults" : {
-      "comment" : "Control Label: Outline Defaults"
+      "comment" : "Label: Outline"
     },
     "Outline Detail" : {
 
     },
-    "Outline Owner" : {
-      "comment" : "Control Label: Outline Owner"
+    "outline.action.collapse-parent-row" : {
+      "comment" : "Outline Action: Collapse Parent Row"
     },
     "Outside" : {
 
     },
     "Owner" : {
-      "comment" : "Control Label: Owner"
+      "comment" : "Label: Owner"
     },
     "Owner Email" : {
 
@@ -807,7 +2133,7 @@
 
     },
     "Paste" : {
-      "comment" : "Control Label: Paste"
+      "comment" : "Label: Paste"
     },
     "PDF Doc" : {
 
@@ -816,52 +2142,49 @@
 
     },
     "Pink" : {
-      "comment" : "Control Label: Pink"
+      "comment" : "Label: Pink"
     },
     "Preferences…" : {
-      "comment" : "Control Label: Preferences…"
+      "comment" : "Label: Preferences…"
     },
     "Previous Result" : {
-      "comment" : "Control Label: Previous Result"
+      "comment" : "Label: Previous Result"
     },
     "Primary Text" : {
-      "comment" : "Control Label: Primary Text"
+      "comment" : "Label: Primary Text"
     },
     "Print" : {
-      "comment" : "Control Label: Print"
+      "comment" : "Label: Print"
     },
     "Print Doc" : {
-      "comment" : "Control Label: Print Doc"
+      "comment" : "Label: Print Doc"
     },
     "Print Doc…" : {
-      "comment" : "Control Label: Print Doc…"
+      "comment" : "Label: Print Doc…"
     },
     "Print List" : {
-      "comment" : "Control Label: Print List"
+      "comment" : "Label: Print List"
     },
     "Print List…" : {
-      "comment" : "Control Label: Print List…"
+      "comment" : "Label: Print List…"
     },
     "Privacy Policy" : {
-      "comment" : "Control Label: Privacy Policy"
-    },
-    "Provide Feedback" : {
-      "comment" : "Control Label: Provide Feedback"
+      "comment" : "Label: Privacy Policy"
     },
     "Purple" : {
-      "comment" : "Control Label: Purple"
+      "comment" : "Label: Purple"
     },
     "Quaternary Text" : {
-      "comment" : "Control Label: Quaternary Text"
+      "comment" : "Label: Quaternary Text"
     },
     "Readable" : {
-      "comment" : "Control Label: Readable"
+      "comment" : "Label: Readable"
     },
     "Red" : {
-      "comment" : "Control Label: Red"
+      "comment" : "Label: Red"
     },
     "Redo" : {
-      "comment" : "Control Label: Redo"
+      "comment" : "Label: Redo"
     },
     "Reference: " : {
       "comment" : "Label: reference label for backlinks"
@@ -876,10 +2199,10 @@
 
     },
     "Release Notes" : {
-      "comment" : "Control Label: Release Notes"
+      "comment" : "Label: Release Notes"
     },
     "Remove" : {
-      "comment" : "Control Label: Remove"
+      "comment" : "Label: Remove"
     },
     "Remove %@" : {
 
@@ -916,19 +2239,19 @@
 
     },
     "Remove Tag" : {
-      "comment" : "Control Label: Remove Tag"
+      "comment" : "Label: Remove Tag"
     },
     "Removes a Tag from the given Outline." : {
 
     },
     "Rename" : {
-      "comment" : "Control Label: Rename"
+      "comment" : "Label: Rename"
     },
     "Replace" : {
-      "comment" : "Control Label: Replace"
+      "comment" : "Label: Replace"
     },
     "Restore" : {
-      "comment" : "Control Label: Restore"
+      "comment" : "Label: Restore"
     },
     "Restore Defaults" : {
       "comment" : "Alert: message for restoring font defaults"
@@ -949,31 +2272,31 @@
 
     },
     "Row Indent" : {
-      "comment" : "Control Label: Row Indent"
+      "comment" : "Label: Row Indent"
     },
     "Row Spacing" : {
-      "comment" : "Control Label: Row Spacing"
+      "comment" : "Label: Row Spacing"
     },
     "Rows" : {
 
     },
     "Save" : {
-      "comment" : "Control Label: Save"
+      "comment" : "Label: Save"
     },
     "Scroll Mode" : {
-      "comment" : "Control Label: Scroll Mode"
+      "comment" : "Label: Scroll Mode"
     },
     "Search" : {
       "comment" : "Field Placeholder: Search"
     },
     "Secondary Text" : {
-      "comment" : "Control Label: Secondary Text"
+      "comment" : "Label: Secondary Text"
     },
     "See documents in “%@”" : {
       "comment" : "Prompt: see documents in document container"
     },
     "Select" : {
-      "comment" : "Control Label: Select"
+      "comment" : "Label: Select"
     },
     "Set %@ of %@" : {
       "localizations" : {
@@ -1036,16 +2359,16 @@
       }
     },
     "Settings" : {
-      "comment" : "Control Label: Settings"
+      "comment" : "Label: Settings"
     },
     "Settings…" : {
-      "comment" : "Control Label: Settings…"
+      "comment" : "Label: Settings…"
     },
     "Share" : {
-      "comment" : "Control Label: Share\nShare"
+      "comment" : "Label: Share\nShare"
     },
     "Share…" : {
-      "comment" : "Control Label: Share…"
+      "comment" : "Label: Share…"
     },
     "Show %@" : {
 
@@ -1060,25 +2383,25 @@
 
     },
     "Small" : {
-      "comment" : "Control Label: Small"
+      "comment" : "Label: Small"
     },
     "Sort Documents" : {
-      "comment" : "Control Label: Sort Documents"
+      "comment" : "Label: Sort Documents"
     },
     "Sort Rows" : {
-      "comment" : "Control Label: Sort Rows"
+      "comment" : "Label: Sort Rows"
     },
     "Split Row" : {
-      "comment" : "Control Label: Split Row"
+      "comment" : "Label: Split Row"
     },
     "Start Depth" : {
 
     },
     "Statistics" : {
-      "comment" : "Control Label: Statistics"
+      "comment" : "Label: Statistics"
     },
     "Sync" : {
-      "comment" : "Control Label: Sync"
+      "comment" : "Label: Sync"
     },
     "Tag" : {
       "comment" : "Data Entry Placeholder: Tag"
@@ -1093,19 +2416,10 @@
       "comment" : "Font Label: Tags"
     },
     "Teal" : {
-      "comment" : "Control Label: Teal"
+      "comment" : "Label: Teal"
     },
     "Tertiary Text" : {
-      "comment" : "Control Label: Tertiary Text"
-    },
-    "The outline will be deleted and unrecoverable." : {
-      "comment" : "Alert Message: delete outline"
-    },
-    "The outlines will be deleted and unrecoverable." : {
-      "comment" : "Alert Message: delete outline"
-    },
-    "The requested document could not be found. It was most likely deleted and is no longer available." : {
-      "comment" : "Alert Message: Document Not Found"
+      "comment" : "Label: Tertiary Text"
     },
     "The requested Outline was not found." : {
 
@@ -1119,17 +2433,11 @@
     "There isn't an Outline currently being viewed." : {
 
     },
-    "This information is included in OPML documents to attribute ownership." : {
-      "comment" : "Note: OPML Ownership."
-    },
-    "This outline appears to be corrupted. Would you like to fix it?" : {
-      "comment" : "Alert Message: Corrupted Outline"
-    },
     "Title" : {
-      "comment" : "Control Label: Title\nFont Label: Title"
+      "comment" : "Font Label: Title\nLabel: Title"
     },
     "Toggle Sidebar" : {
-      "comment" : "Control Label: Toggle Sidebar"
+      "comment" : "Label: Toggle Sidebar"
     },
     "Topic" : {
 
@@ -1141,28 +2449,28 @@
 
     },
     "Turn Filter Off" : {
-      "comment" : "Control Label: Turn Filter Off"
+      "comment" : "Label: Turn Filter Off"
     },
     "Turn Filter On" : {
-      "comment" : "Control Label: Turn Filter On"
+      "comment" : "Label: Turn Filter On"
     },
     "Typewriter" : {
-      "comment" : "Control Label: Typewriter"
+      "comment" : "Label: Typewriter"
     },
     "Typing" : {
-      "comment" : "Control Label: Typing"
+      "comment" : "Label: Typing"
     },
     "Unable to find the Outline or Row specified by the Entity ID." : {
 
     },
     "Uncomplete" : {
-      "comment" : "Control Label: Uncomplete"
+      "comment" : "Label: Uncomplete"
     },
     "Undo" : {
-      "comment" : "Control Label: Undo"
+      "comment" : "Label: Undo"
     },
     "Undo Menu" : {
-      "comment" : "Control Label: Undo Menu"
+      "comment" : "Label: Undo Menu"
     },
     "Update the details of a Row." : {
 
@@ -1171,7 +2479,7 @@
 
     },
     "Updated" : {
-      "comment" : "Control Label: Updated"
+      "comment" : "Label: Updated"
     },
     "Updated End Date" : {
 
@@ -1180,16 +2488,16 @@
 
     },
     "URL" : {
-      "comment" : "Control Label: URL"
+      "comment" : "Label: URL"
     },
     "Use Main Window as Default" : {
-      "comment" : "Control Label: Use Main Window as Default"
+      "comment" : "Label: Use Main Window as Default"
     },
     "Use Selection For Find" : {
-      "comment" : "Control Label: Use Selection For Find"
+      "comment" : "Label: Use Selection For Find"
     },
     "Website" : {
-      "comment" : "Control Label: Website"
+      "comment" : "Label: Website"
     },
     "What is the %@ to add?" : {
 
@@ -1201,25 +2509,25 @@
 
     },
     "Wide" : {
-      "comment" : "Control Label: Wide"
+      "comment" : "Label: Wide"
     },
     "Word Count" : {
-      "comment" : "Control Label: Word Count"
+      "comment" : "Label: Word Count"
     },
     "Yellow" : {
-      "comment" : "Control Label: Yellow"
+      "comment" : "Label: Yellow"
     },
     "Zavala Deep Links" : {
 
     },
     "Zavala Help" : {
-      "comment" : "Control Label: Zavala Help"
+      "comment" : "Label: Zavala Help"
     },
     "Zoom In" : {
-      "comment" : "Control Label: Zoom In"
+      "comment" : "Label: Zoom In"
     },
     "Zoom Out" : {
-      "comment" : "Control Label: Zoom Out"
+      "comment" : "Label: Zoom Out"
     }
   },
   "version" : "1.0"

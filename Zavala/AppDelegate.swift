@@ -493,7 +493,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, FileActionResponder {
 		let appMenu = UIMenu(title: "", options: .displayInline, children: [showSettings])
 		builder.insertSibling(appMenu, afterMenu: .about)
 
-		let aboutMenuTitle = builder.menu(for: .about)?.children.first?.title ?? "About Zavala"
+		let aboutMenuTitle = builder.menu(for: .about)?.children.first?.title ?? String.aboutZavala
 		let showAboutCommand = UICommand(title: aboutMenuTitle, action: #selector(showAbout(_:)))
 		builder.replace(menu: .about, with: UIMenu(options: .displayInline, children: [showAboutCommand]))
 		
