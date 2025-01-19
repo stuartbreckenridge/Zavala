@@ -1110,6 +1110,105 @@
         }
       }
     },
+    "action.text.orange" : {
+      "comment" : "Set Font Color Action: Orange",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange"
+          }
+        }
+      }
+    },
+    "action.text.paste" : {
+      "comment" : "Action: Paste",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste"
+          }
+        }
+      }
+    },
+    "action.text.pink" : {
+      "comment" : "Set Font Color Action: Pink",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pink"
+          }
+        }
+      }
+    },
+    "action.text.previous-result" : {
+      "comment" : "Action: Previous Result",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous Result"
+          }
+        }
+      }
+    },
+    "action.text.print" : {
+      "comment" : "Action: Print",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print"
+          }
+        }
+      }
+    },
+    "action.text.print-doc" : {
+      "comment" : "Action: Print Doc",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print Doc"
+          }
+        }
+      }
+    },
+    "action.text.print-doc-with-ellipsis" : {
+      "comment" : "Action: Print Doc…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print Doc…"
+          }
+        }
+      }
+    },
+    "action.text.print-list" : {
+      "comment" : "Action: Print List",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print List"
+          }
+        }
+      }
+    },
+    "action.text.print-list-with-ellipsis" : {
+      "comment" : "Label: Print List…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print List..."
+          }
+        }
+      }
+    },
     "action.text.provide-feedback" : {
       "comment" : "Action: Provide Feedback",
       "localizations" : {
@@ -1117,6 +1216,50 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Provide Feedback"
+          }
+        }
+      }
+    },
+    "action.text.purple" : {
+      "comment" : "Set Font Color Action: Purple",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purple"
+          }
+        }
+      }
+    },
+    "action.text.red" : {
+      "comment" : "Set Font Color Action: Red",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red"
+          }
+        }
+      }
+    },
+    "action.text.redo" : {
+      "comment" : "Action: Redo",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redo"
+          }
+        }
+      }
+    },
+    "action.text.remove" : {
+      "comment" : "Action: Remove",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
           }
         }
       }
@@ -1266,9 +1409,6 @@
     },
     "Are you sure you want to delete the “%@” outline?" : {
       "comment" : "Confirmation: delete outline?"
-    },
-    "Are you sure you want to remove the iCloud Account? All documents in the iCloud Account will be removed from this computer." : {
-      "comment" : "Alert Message: message for removing an iCloud Account"
     },
     "Are you sure you want to restore the defaults? All your font customizations will be lost." : {
       "comment" : "Alert: information for restoring font defaults"
@@ -2056,6 +2196,105 @@
         }
       }
     },
+    "label.text.owner" : {
+      "comment" : "Label: Owner",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner"
+          }
+        }
+      }
+    },
+    "label.text.preferences-with-ellipsis" : {
+      "comment" : "Label: Preferences…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences…"
+          }
+        }
+      }
+    },
+    "label.text.primary-text" : {
+      "comment" : "Label: Primary Text",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primary Text"
+          }
+        }
+      }
+    },
+    "label.text.privacy-policy" : {
+      "comment" : "Label: Privacy Policy",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        }
+      }
+    },
+    "label.text.quaternary-text" : {
+      "comment" : "Label: Quaternary Text",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quaternary Text"
+          }
+        }
+      }
+    },
+    "label.text.readable" : {
+      "comment" : "Label: Readable",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Readable"
+          }
+        }
+      }
+    },
+    "label.text.release-notes" : {
+      "comment" : "Label: Release Notes",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Release Notes"
+          }
+        }
+      }
+    },
+    "label.text.remove-icloud-account" : {
+      "comment" : "Label: Remove iCloud Account",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove iCloud Account"
+          }
+        }
+      }
+    },
+    "label.text.remove-icloud-account-message" : {
+      "comment" : "Label: Are you sure you want to remove the iCloud Account? All documents in the iCloud Account will be removed from this computer.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to remove the iCloud Account? All documents in the iCloud Account will be removed from this computer."
+          }
+        }
+      }
+    },
     "label.text.zavala-help" : {
       "comment" : "Label: Zavala Help",
       "localizations" : {
@@ -2113,9 +2352,6 @@
     "OPML" : {
 
     },
-    "Orange" : {
-      "comment" : "Label: Orange"
-    },
     "Outline" : {
       "comment" : "Label: Outline"
     },
@@ -2128,9 +2364,6 @@
     "Outside" : {
 
     },
-    "Owner" : {
-      "comment" : "Label: Owner"
-    },
     "Owner Email" : {
 
     },
@@ -2140,59 +2373,11 @@
     "Owner URL" : {
 
     },
-    "Paste" : {
-      "comment" : "Label: Paste"
-    },
     "PDF Doc" : {
 
     },
     "PDF List" : {
 
-    },
-    "Pink" : {
-      "comment" : "Label: Pink"
-    },
-    "Preferences…" : {
-      "comment" : "Label: Preferences…"
-    },
-    "Previous Result" : {
-      "comment" : "Label: Previous Result"
-    },
-    "Primary Text" : {
-      "comment" : "Label: Primary Text"
-    },
-    "Print" : {
-      "comment" : "Label: Print"
-    },
-    "Print Doc" : {
-      "comment" : "Label: Print Doc"
-    },
-    "Print Doc…" : {
-      "comment" : "Label: Print Doc…"
-    },
-    "Print List" : {
-      "comment" : "Label: Print List"
-    },
-    "Print List…" : {
-      "comment" : "Label: Print List…"
-    },
-    "Privacy Policy" : {
-      "comment" : "Label: Privacy Policy"
-    },
-    "Purple" : {
-      "comment" : "Label: Purple"
-    },
-    "Quaternary Text" : {
-      "comment" : "Label: Quaternary Text"
-    },
-    "Readable" : {
-      "comment" : "Label: Readable"
-    },
-    "Red" : {
-      "comment" : "Label: Red"
-    },
-    "Redo" : {
-      "comment" : "Label: Redo"
     },
     "Reference: " : {
       "comment" : "Label: reference label for backlinks"
@@ -2205,12 +2390,6 @@
     },
     "Relative File Links" : {
 
-    },
-    "Release Notes" : {
-      "comment" : "Label: Release Notes"
-    },
-    "Remove" : {
-      "comment" : "Label: Remove"
     },
     "Remove %@" : {
 
@@ -2233,9 +2412,6 @@
     },
     "Remove ${tagName} from ${outline}" : {
 
-    },
-    "Remove iCloud Account" : {
-      "comment" : "Alert Title: title for removing an iCloud Account"
     },
     "Remove Outline" : {
 
