@@ -4,17 +4,6 @@
     "" : {
 
     },
-    "%@ at %@" : {
-      "comment" : "Timestame Label: Created\nTimestame Label: Updated",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ at %2$@"
-          }
-        }
-      }
-    },
     "accessibility.text.complete" : {
       "comment" : "Accessibility Label: Complete",
       "localizations" : {
@@ -1528,6 +1517,94 @@
         }
       }
     },
+    "action.text.uncomplete" : {
+      "comment" : "Action: Uncomplete",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uncomplete"
+          }
+        }
+      }
+    },
+    "action.text.undo" : {
+      "comment" : "Action: Undo",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo"
+          }
+        }
+      }
+    },
+    "action.text.use-main-window-as-default" : {
+      "comment" : "Action: Use Main Window as Default",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Main Window as Default"
+          }
+        }
+      }
+    },
+    "action.text.use-selection-for-find" : {
+      "comment" : "Action: Use Selection For Find",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Selection For Find"
+          }
+        }
+      }
+    },
+    "action.text.wide" : {
+      "comment" : "Label: Wide",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wide"
+          }
+        }
+      }
+    },
+    "action.text.yellow" : {
+      "comment" : "Set Font Color Action: Yellow",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yellow"
+          }
+        }
+      }
+    },
+    "action.text.zoom-in" : {
+      "comment" : "Action: Zoom In",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoom In"
+          }
+        }
+      }
+    },
+    "action.text.zoom-out" : {
+      "comment" : "Action: Zoom Out",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoom Out"
+          }
+        }
+      }
+    },
     "Add %@ to %@" : {
       "localizations" : {
         "en" : {
@@ -1591,12 +1668,6 @@
     "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)" : {
 
     },
-    "Are you sure you want to delete %lld outlines?" : {
-      "comment" : "Confirmation: delete outlines?"
-    },
-    "Are you sure you want to delete the “%@” outline?" : {
-      "comment" : "Confirmation: delete outline?"
-    },
     "Close" : {
       "comment" : "Close"
     },
@@ -1628,17 +1699,6 @@
     "Copy Rows in or between Outlines." : {
 
     },
-    "Copyright © Vincode, Inc. 2020-%@" : {
-      "comment" : "About Box copyright information",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A"
-          }
-        }
-      }
-    },
     "Created" : {
       "comment" : "Control Label: Created"
     },
@@ -1665,9 +1725,6 @@
     },
     "Directly After" : {
 
-    },
-    "Edit document “%@”" : {
-      "comment" : "Prompt: edit document"
     },
     "Edit Outline" : {
 
@@ -1917,6 +1974,17 @@
         }
       }
     },
+    "label.text.copyright-%@" : {
+      "comment" : "Label: Copyright © Vincode, Inc. 2020-<Current Year>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © Vincode, Inc. 2020-%@"
+          }
+        }
+      }
+    },
     "label.text.corrupted-outline" : {
       "comment" : "Label: Corrupted Outline",
       "localizations" : {
@@ -1946,6 +2014,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Created"
+          }
+        }
+      }
+    },
+    "label.text.created-on-%@-at-%@" : {
+      "comment" : "Label: Created on <Date> at <Time>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Created on %1$@ at%2$@"
           }
         }
       }
@@ -1984,7 +2063,7 @@
       }
     },
     "label.text.delete-multiple-tags-confirmation-message-%lld" : {
-      "comment" : "Alert Title: Are you sure you want to delete tagCount tags?",
+      "comment" : "Alert Title: Are you sure you want to delete <Tag Count> tags?",
       "localizations" : {
         "en" : {
           "variations" : {
@@ -2013,6 +2092,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Are you sure you want to the ”%@” outline?"
+          }
+        }
+      }
+    },
+    "label.text.delete-outlines-confirmation-message-%lld" : {
+      "comment" : "Label: Are you sure you want to delete <Outline Count> outlines?",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete %lld outlines?"
           }
         }
       }
@@ -2057,6 +2147,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Done"
+          }
+        }
+      }
+    },
+    "label.text.edit-document-%@" : {
+      "comment" : "Prompt:  Edit document “<Document Title>”",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Document ”%@’"
           }
         }
       }
@@ -2325,6 +2426,28 @@
         }
       }
     },
+    "label.text.note-level-%lld" : {
+      "comment" : "Label: Note Level <Note Level>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note Level %lld"
+          }
+        }
+      }
+    },
+    "label.text.numbering-level-%lld" : {
+      "comment" : "Label: Number Level <Numbering Level>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numbering Level %lld"
+          }
+        }
+      }
+    },
     "label.text.numbering-style" : {
       "comment" : "Label: Numbering Style",
       "localizations" : {
@@ -2578,6 +2701,17 @@
         }
       }
     },
+    "label.text.see-documents-in-container-%@" : {
+      "comment" : "Label:  See documents in “<Document Container Title>”",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See documents in ”%@”"
+          }
+        }
+      }
+    },
     "label.text.settings" : {
       "comment" : "Label: Settings",
       "localizations" : {
@@ -2655,6 +2789,17 @@
         }
       }
     },
+    "label.text.topic-level-%lld" : {
+      "comment" : "Label: Topic Level <Topic Level>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Topic Level %lld"
+          }
+        }
+      }
+    },
     "label.text.typewriter" : {
       "comment" : "Label: Typewriter",
       "localizations" : {
@@ -2673,6 +2818,72 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Typing"
+          }
+        }
+      }
+    },
+    "label.text.undo-menu" : {
+      "comment" : "Label: Undo Menu",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo Menu"
+          }
+        }
+      }
+    },
+    "label.text.updated" : {
+      "comment" : "Label: Updated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updated"
+          }
+        }
+      }
+    },
+    "label.text.updated-on-%@-at-%@" : {
+      "comment" : "Label: Updated on <Date> at <Time>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updated on %1$@ at %2$@"
+          }
+        }
+      }
+    },
+    "label.text.url" : {
+      "comment" : "Label: URL",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        }
+      }
+    },
+    "label.text.website" : {
+      "comment" : "Label: Website",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Website"
+          }
+        }
+      }
+    },
+    "label.text.word-count" : {
+      "comment" : "Label: Word Count",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Word Count"
           }
         }
       }
@@ -2721,12 +2932,6 @@
     },
     "Note" : {
 
-    },
-    "Note Level %lld" : {
-      "comment" : "Font Label: The font for the given Note Level"
-    },
-    "Numbering Level %lld" : {
-      "comment" : "Font Label: The font for the given Numbering Level"
     },
     "On My Device" : {
 
@@ -2821,9 +3026,6 @@
     },
     "Search" : {
       "comment" : "Field Placeholder: Search"
-    },
-    "See documents in “%@”" : {
-      "comment" : "Prompt: see documents in document container"
     },
     "Set %@ of %@" : {
       "localizations" : {
@@ -2936,9 +3138,6 @@
     "Topic" : {
 
     },
-    "Topic Level %lld" : {
-      "comment" : "Font Label: The font for the given Topic Level"
-    },
     "Topics" : {
 
     },
@@ -2947,12 +3146,6 @@
     },
     "Uncomplete" : {
       "comment" : "Label: Uncomplete"
-    },
-    "Undo" : {
-      "comment" : "Label: Undo"
-    },
-    "Undo Menu" : {
-      "comment" : "Label: Undo Menu"
     },
     "Update the details of a Row." : {
 
@@ -2972,15 +3165,6 @@
     "URL" : {
       "comment" : "Label: URL"
     },
-    "Use Main Window as Default" : {
-      "comment" : "Label: Use Main Window as Default"
-    },
-    "Use Selection For Find" : {
-      "comment" : "Label: Use Selection For Find"
-    },
-    "Website" : {
-      "comment" : "Label: Website"
-    },
     "What is the %@ to add?" : {
 
     },
@@ -2990,26 +3174,8 @@
     "Which Account did you want to add this Outline to?" : {
 
     },
-    "Wide" : {
-      "comment" : "Label: Wide"
-    },
-    "Word Count" : {
-      "comment" : "Label: Word Count"
-    },
-    "Yellow" : {
-      "comment" : "Label: Yellow"
-    },
     "Zavala Deep Links" : {
 
-    },
-    "Zavala Help" : {
-      "comment" : "Label: Zavala Help"
-    },
-    "Zoom In" : {
-      "comment" : "Label: Zoom In"
-    },
-    "Zoom Out" : {
-      "comment" : "Label: Zoom Out"
     }
   },
   "version" : "1.0"

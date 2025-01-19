@@ -373,36 +373,36 @@ extension String {
 	static let typingControlLabel = String(localized: "label.text.typing", comment: "Label: Typing")
 	static let typewriterCenterControlLabel = String(localized: "label.text.typewriter", comment: "Label: Typewriter")
 
-	static let uncompleteControlLabel = String(localized: "Uncomplete", comment: "Label: Uncomplete")
-	static let undoControlLabel = String(localized: "Undo", comment: "Label: Undo")
-	static let undoMenuControlLabel = String(localized: "Undo Menu", comment: "Label: Undo Menu")
-	static let updatedControlLabel = String(localized: "Updated", comment: "Label: Updated")
-	static let urlControlLabel = String(localized: "URL", comment: "Label: URL")
-	static let useSelectionForFindControlLabel = String(localized: "Use Selection For Find", comment: "Label: Use Selection For Find")
-	static let useMainWindowAsDefaultControlLabel = String(localized: "Use Main Window as Default", comment: "Label: Use Main Window as Default")
+	static let uncompleteControlLabel = String(localized: "action.text.uncomplete", comment: "Action: Uncomplete")
+	static let undoControlLabel = String(localized: "action.text.undo", comment: "Action: Undo")
+	static let undoMenuControlLabel = String(localized: "label.text.undo-menu", comment: "Label: Undo Menu")
+	static let updatedControlLabel = String(localized: "label.text.updated", comment: "Label: Updated")
+	static let urlControlLabel = String(localized: "label.text.url", comment: "Label: URL")
+	static let useSelectionForFindControlLabel = String(localized: "action.text.use-selection-for-find", comment: "Action: Use Selection For Find")
+	static let useMainWindowAsDefaultControlLabel = String(localized: "action.text.use-main-window-as-default", comment: "Action: Use Main Window as Default")
  
-	static let websiteControlLabel = String(localized: "Website", comment: "Label: Website")
-	static let wideControlLabel = String(localized: "Wide", comment: "Label: Wide")
-	static let wordCountLabel = String(localized: "Word Count", comment: "Label: Word Count")
+	static let websiteControlLabel = String(localized: "label.text.website", comment: "Label: Website")
+	static let wideControlLabel = String(localized: "action.text.wide", comment: "Label: Wide")
+	static let wordCountLabel = String(localized: "label.text.word-count", comment: "Label: Word Count")
 
-	static let yellowControlLabel = String(localized: "Yellow", comment: "Label: Yellow")
+	static let yellowControlLabel = String(localized: "action.text.yellow", comment: "Set Font Color Action: Yellow")
 
-	static let zavalaHelpControlLabel = String(localized: "Zavala Help", comment: "Label: Zavala Help")
-	static let zoomInControlLabel = String(localized: "Zoom In", comment: "Label: Zoom In")
-	static let zoomOutControlLabel = String(localized: "Zoom Out", comment: "Label: Zoom Out")
+	static let zavalaHelpControlLabel = String(localized: "label.text.zavala-help", comment: "Label: Zavala Help")
+	static let zoomInControlLabel = String(localized: "action.text.zoom-in", comment: "Action: Zoom In")
+	static let zoomOutControlLabel = String(localized: "action.text.zoom-out", comment: "Action: Zoom Out")
 
 	// MARK: Localizable Functions
 	
 	static func createdOnLabel(date: Date) -> String {
 		let dateString = dateFormatter.string(from: date)
 		let timeString = timeFormatter.string(from: date)
-		return String(localized: "\(dateString) at \(timeString)", comment: "Timestame Label: Created")
+		return String(localized: "label.text.created-on-\(dateString)-at-\(timeString)", comment: "Label: Created on <Date> at <Time>")
 	}
 	
 	static func updatedOnLabel(date: Date) -> String {
 		let dateString = dateFormatter.string(from: date)
 		let timeString = timeFormatter.string(from: date)
-		return String(localized: "\(dateString) at \(timeString)", comment: "Timestame Label: Updated")
+		return String(localized: "label.text.updated-on-\(dateString)-at-\(timeString)", comment: "Label: Updated on <Date> at <Time>")
 	}
 	
 	static func deleteOutlinePrompt(outlineTitle: String) -> String {
@@ -414,42 +414,37 @@ extension String {
 	}
 	
 	static func deleteTagsPrompt(tagCount: Int) -> String {
-		return String(localized: "label.text.delete-multiple-tags-confirmation-message-\(tagCount)", comment: "Alert Title: Are you sure you want to delete tagCount tags?")
-	}
-	
-	@available(*, deprecated, renamed: "deleteOutlinePrompt(outlineTitle:)", message: "Duplicate of deleteOutlinePrompt(outlineTitle:)")
-	static func deleteOutlinePrompt(outlineName: String) -> String {
-		return String(localized: "Are you sure you want to delete the “\(outlineName)” outline?", comment: "Confirmation: delete outline?")
+		return String(localized: "label.text.delete-multiple-tags-confirmation-message-\(tagCount)", comment: "Alert Title: Are you sure you want to delete <Tag Count> tags?")
 	}
 	
 	static func deleteOutlinesPrompt(outlineCount: Int) -> String {
-		return String(localized: "Are you sure you want to delete \(outlineCount) outlines?", comment: "Confirmation: delete outlines?")
+		return String(localized: "label.text.delete-outlines-confirmation-message-\(outlineCount)", comment: "Label: Are you sure you want to delete <Outline Count> outlines?")
 	}
 
 	
 	static func seeDocumentsInPrompt(documentContainerTitle: String) -> String {
-		return String(localized: "See documents in “\(documentContainerTitle)”", comment: "Prompt: see documents in document container")
+		return String(localized: "label.text.see-documents-in-container-\(documentContainerTitle)", comment: "Label:  See documents in “<Document Container Title>”")
 	}
 	
 	static func editDocumentPrompt(documentTitle: String) -> String {
-		return String(localized: "Edit document “\(documentTitle)”", comment: "Prompt: edit document")
+		return String(localized: "label.text.edit-document-\(documentTitle)", comment: "Prompt:  Edit document “<Document Title>”")
 	}
 	
 	static func numberingLevelLabel(level: Int) -> String {
-		return String(localized: "Numbering Level \(level)", comment: "Font Label: The font for the given Numbering Level")
+		return String(localized: "label.text.numbering-level-\(level)", comment: "Label: Number Level <Numbering Level>")
 	}
 	
 	static func topicLevelLabel(level: Int) -> String {
-		return String(localized: "Topic Level \(level)", comment: "Font Label: The font for the given Topic Level")
+		return String(localized: "label.text.topic-level-\(level)", comment: "Label: Topic Level <Topic Level>")
 	}
 	
 	static func noteLevelLabel(level: Int) -> String {
-		return String(localized: "Note Level \(level)", comment: "Font Label: The font for the given Note Level")
+		return String(localized: "label.text.note-level-\(level)", comment: "Label: Note Level <Note Level>")
 	}
 	
 	static func copyrightLabel() -> String {
 		let year = String(Calendar.current.component(.year, from: Date()))
-		return String(localized: "Copyright © Vincode, Inc. 2020-\(year)", comment: "About Box copyright information")
+		return String(localized: "label.text.copyright-\(year)", comment: "Label: Copyright © Vincode, Inc. 2020-<Current Year>")
 	}
 	
 }
