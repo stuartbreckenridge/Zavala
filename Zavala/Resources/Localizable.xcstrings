@@ -517,7 +517,7 @@
       }
     },
     "action.text.duplicate-rows" : {
-      "comment" : "Label: Duplicate Rows",
+      "comment" : "Action: Duplicate Rows",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -540,6 +540,7 @@
     },
     "action.text.enable-ipad" : {
       "comment" : "Label: Enable On My iPad",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -551,6 +552,7 @@
     },
     "action.text.enable-iphone" : {
       "comment" : "Label: Enable On My iPhone",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -562,11 +564,71 @@
     },
     "action.text.enable-mac" : {
       "comment" : "Label: Enable On My Mac",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enable On My Mac"
+          }
+        }
+      }
+    },
+    "action.text.enable-on-my-device" : {
+      "comment" : "Label: Enable On My <Device>",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "appletv" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My Apple TV"
+                }
+              },
+              "applevision" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My Apple Vision Pro"
+                }
+              },
+              "applewatch" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My Apple Watch"
+                }
+              },
+              "ipad" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My iPad"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My iPhone"
+                }
+              },
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My iPod"
+                }
+              },
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My Mac"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My Device"
+                }
+              }
+            }
           }
         }
       }
@@ -1825,7 +1887,8 @@
             "value" : "iCloud"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "ID" : {
 
@@ -2170,7 +2233,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Are you sure you want to the ”%@” outline?"
+            "value" : "Are you sure you want to delete the ”%@” outline?"
           }
         }
       }
