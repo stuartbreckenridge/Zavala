@@ -1634,32 +1634,13 @@
     "Add a Tag to the given Outline." : {
 
     },
-    "Add Outline" : {
-
-    },
     "Add Outline Tag" : {
-
-    },
-    "Add Outline titled %@ to %@" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add Outline titled %1$@ to %2$@"
-          }
-        }
-      }
-    },
-    "Add Outline titled ${title} to ${accountType}" : {
 
     },
     "Add Rows" : {
 
     },
     "Add Rows to an Outline." : {
-
-    },
-    "Adds an Outline." : {
 
     },
     "An unexpected error occurred. Please try again." : {
@@ -1885,6 +1866,104 @@
     },
     "Inside at Start" : {
 
+    },
+    "intent.description.add-outline" : {
+      "comment" : "Intent Description: Adds an Outline",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adds an Outline"
+          }
+        }
+      }
+    },
+    "intent.parameter.account-type" : {
+      "comment" : "Intent Parameter: Account Type",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account Type"
+          }
+        }
+      }
+    },
+    "intent.parameter.account-type-request" : {
+      "comment" : "Intent request dialog: Which Account do you want to add this Outline to?",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Which Account do you want to add this Outline to?"
+          }
+        }
+      }
+    },
+    "intent.parameter.outline-title-request" : {
+      "comment" : "Intent request dialog: What is the title of the new Outline?",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is the title of the new Outline?"
+          }
+        }
+      }
+    },
+    "intent.parameter.tag-names" : {
+      "comment" : "Intent Parameter: Tag Names",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag Names"
+          }
+        }
+      }
+    },
+    "intent.parameter.title" : {
+      "comment" : "Intent Parameter: Title",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Title"
+          }
+        }
+      }
+    },
+    "intent.prediction.add-outline-%@-to-%@" : {
+      "comment" : "Intent Prediction: Add Outline titled <title> to <accountType>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Outline titled %1$@ to %2$@"
+          }
+        }
+      }
+    },
+    "intent.summary.add-outline-${title}-to-${accountType}" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Outline ${title} to ${accountType}"
+          }
+        }
+      }
+    },
+    "intent.title.add-outline" : {
+      "comment" : "Intent Title: Add Outline",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Outline"
+          }
+        }
+      }
     },
     "label.text.about-zavala" : {
       "comment" : "Label: About Zavala",
@@ -2899,6 +2978,17 @@
         }
       }
     },
+    "label.title.collections" : {
+      "comment" : "Label: Collections",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collections"
+          }
+        }
+      }
+    },
     "Level" : {
 
     },
@@ -2946,7 +3036,15 @@
 
     },
     "outline.action.collapse-parent-row" : {
-      "comment" : "Outline Action: Collapse Parent Row"
+      "comment" : "Outline Action: Collapse Parent Row",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse Parent Row"
+          }
+        }
+      }
     },
     "Outside" : {
 
@@ -3114,9 +3212,6 @@
     "Tag Name" : {
 
     },
-    "Tag Names" : {
-
-    },
     "Tags" : {
       "comment" : "Font Label: Tags"
     },
@@ -3166,12 +3261,6 @@
       "comment" : "Label: URL"
     },
     "What is the %@ to add?" : {
-
-    },
-    "What is the title for the new Outline?" : {
-
-    },
-    "Which Account did you want to add this Outline to?" : {
 
     },
     "Zavala Deep Links" : {
