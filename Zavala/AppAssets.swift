@@ -270,7 +270,7 @@ extension String {
 	static let insertImageEllipsisControlLabel = String(localized: "action.text.insert-image-with-ellipsis", comment: "Label: Insert Image…")
 	static let italicControlLabel = String(localized: "action.text.italic", comment: "Set Font Action: Italic")
 
-	static let jumpToNoteControlLabel = String(localized: "action.test.jump-to-note", comment: "Action: Jump to Note")
+	static let jumpToNoteControlLabel = String(localized: "action.text.jump-to-note", comment: "Action: Jump to Note")
 	static let jumpToTopicControlLabel = String(localized: "action.text.jump-to-topic", comment: "Action: Jump to Topic")
 
 	static let largeControlLabel = String(localized: "action.text.large", comment: "Action: Large")
