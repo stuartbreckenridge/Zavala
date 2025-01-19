@@ -201,7 +201,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, FileActionResponder {
 
 	let copyDocumentLinkCommand = UICommand(title: .copyDocumentLinkControlLabel, action: .copyDocumentLink)
 
-	let sortByTitleCommand = UICommand(title: .titleControlLabel, action: .sortByTitle)
+	let sortByTitleCommand = UICommand(title: .titleLabel, action: .sortByTitle)
 	let sortByCreatedCommand = UICommand(title: .createdControlLabel, action: .sortByCreated)
 	let sortByUpdatedCommand = UICommand(title: .updatedControlLabel, action: .sortByUpdated)
 	let sortAscendingCommand = UICommand(title: .ascendingControlLabel, action: .sortAscending)

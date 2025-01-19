@@ -1264,6 +1264,72 @@
         }
       }
     },
+    "action.text.remove-tag" : {
+      "comment" : "Action: Remove Tag",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Tag"
+          }
+        }
+      }
+    },
+    "action.text.rename" : {
+      "comment" : "Action: Rename",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rename"
+          }
+        }
+      }
+    },
+    "action.text.replace" : {
+      "comment" : "Action: Replace",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Replace"
+          }
+        }
+      }
+    },
+    "action.text.restore" : {
+      "comment" : "Action: Restore",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore"
+          }
+        }
+      }
+    },
+    "action.text.save" : {
+      "comment" : "Action: Save",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "action.text.select" : {
+      "comment" : "Action: Select",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select"
+          }
+        }
+      }
+    },
     "action.text.set-appearance-dark" : {
       "comment" : "Set App Color Palette Action: Dark",
       "localizations" : {
@@ -1341,6 +1407,127 @@
         }
       }
     },
+    "action.text.share" : {
+      "comment" : "Action: Share",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share"
+          }
+        }
+      }
+    },
+    "action.text.share-with-ellipsis" : {
+      "comment" : "Label: Share…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share…"
+          }
+        }
+      }
+    },
+    "action.text.small" : {
+      "comment" : "Action: Small",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Small"
+          }
+        }
+      }
+    },
+    "action.text.sort-documents" : {
+      "comment" : "Action: Sort Documents",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort Document"
+          }
+        }
+      }
+    },
+    "action.text.sort-rows" : {
+      "comment" : "Action: Sort Rows",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort Rows"
+          }
+        }
+      }
+    },
+    "action.text.split-row" : {
+      "comment" : "Action: Split Row",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Split Row"
+          }
+        }
+      }
+    },
+    "action.text.sync" : {
+      "comment" : "Label: Sync",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync"
+          }
+        }
+      }
+    },
+    "action.text.teal" : {
+      "comment" : "Set Font Color Appearance: Teal",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teal"
+          }
+        }
+      }
+    },
+    "action.text.toggle-sidebar" : {
+      "comment" : "Action: Toggle Sidebar",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Sidebar"
+          }
+        }
+      }
+    },
+    "action.text.turn-filter-off" : {
+      "comment" : "Action: Turn Filter Off",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn Filter Off"
+          }
+        }
+      }
+    },
+    "action.text.turn-filter-on" : {
+      "comment" : "Label: Turn Filter On",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn Filter On"
+          }
+        }
+      }
+    },
     "Add %@ to %@" : {
       "localizations" : {
         "en" : {
@@ -1409,9 +1596,6 @@
     },
     "Are you sure you want to delete the “%@” outline?" : {
       "comment" : "Confirmation: delete outline?"
-    },
-    "Are you sure you want to restore the defaults? All your font customizations will be lost." : {
-      "comment" : "Alert: information for restoring font defaults"
     },
     "Close" : {
       "comment" : "Close"
@@ -2262,6 +2446,28 @@
         }
       }
     },
+    "label.text.reference" : {
+      "comment" : "Label: Reference: ",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reference"
+          }
+        }
+      }
+    },
+    "label.text.references" : {
+      "comment" : "Label: References: ",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "References: "
+          }
+        }
+      }
+    },
     "label.text.release-notes" : {
       "comment" : "Label: Release Notes",
       "localizations" : {
@@ -2291,6 +2497,182 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Are you sure you want to remove the iCloud Account? All documents in the iCloud Account will be removed from this computer."
+          }
+        }
+      }
+    },
+    "label.text.restore-defaults" : {
+      "comment" : "Label: Restore Defaults",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "References: "
+          }
+        }
+      }
+    },
+    "label.text.restore-defaults-message" : {
+      "comment" : "Label: Are you sure you want to restore the defaults? All your font customizations will be lost.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to restore the defaults? All your font customizations will be lost."
+          }
+        }
+      }
+    },
+    "label.text.row-indent" : {
+      "comment" : "Label: Row Indent",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Row Indent"
+          }
+        }
+      }
+    },
+    "label.text.row-spacing" : {
+      "comment" : "Label: Row Spacing",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Row Spacing"
+          }
+        }
+      }
+    },
+    "label.text.scroll-mode" : {
+      "comment" : "Label: Scroll Mode",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scroll Mode"
+          }
+        }
+      }
+    },
+    "label.text.search" : {
+      "comment" : "Label: Search",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "label.text.secondary-text" : {
+      "comment" : "Label: Secondary Text",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Secondary Text"
+          }
+        }
+      }
+    },
+    "label.text.settings" : {
+      "comment" : "Label: Settings",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "label.text.settings-with-ellipsis" : {
+      "comment" : "Label: Settings…",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings…"
+          }
+        }
+      }
+    },
+    "label.text.statistics" : {
+      "comment" : "Label: Statistics",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistics"
+          }
+        }
+      }
+    },
+    "label.text.tag" : {
+      "comment" : "Label: Tag",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag"
+          }
+        }
+      }
+    },
+    "label.text.tags" : {
+      "comment" : "Label: Tags",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tags"
+          }
+        }
+      }
+    },
+    "label.text.tertiary-text" : {
+      "comment" : "Label: Tertiary Text",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tertiary Text"
+          }
+        }
+      }
+    },
+    "label.text.title" : {
+      "comment" : "Font Label: Title",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Title"
+          }
+        }
+      }
+    },
+    "label.text.typewriter" : {
+      "comment" : "Label: Typewriter",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typewriter"
+          }
+        }
+      }
+    },
+    "label.text.typing" : {
+      "comment" : "Label: Typing",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typing"
           }
         }
       }
@@ -2379,12 +2761,6 @@
     "PDF List" : {
 
     },
-    "Reference: " : {
-      "comment" : "Label: reference label for backlinks"
-    },
-    "References: " : {
-      "comment" : "Label: references label for backlinks"
-    },
     "Regular Expression" : {
 
     },
@@ -2422,23 +2798,8 @@
     "Remove Rows" : {
 
     },
-    "Remove Tag" : {
-      "comment" : "Label: Remove Tag"
-    },
     "Removes a Tag from the given Outline." : {
 
-    },
-    "Rename" : {
-      "comment" : "Label: Rename"
-    },
-    "Replace" : {
-      "comment" : "Label: Replace"
-    },
-    "Restore" : {
-      "comment" : "Label: Restore"
-    },
-    "Restore Defaults" : {
-      "comment" : "Alert: message for restoring font defaults"
     },
     "Row" : {
 
@@ -2455,32 +2816,14 @@
     "Row Expanded State" : {
 
     },
-    "Row Indent" : {
-      "comment" : "Label: Row Indent"
-    },
-    "Row Spacing" : {
-      "comment" : "Label: Row Spacing"
-    },
     "Rows" : {
 
-    },
-    "Save" : {
-      "comment" : "Label: Save"
-    },
-    "Scroll Mode" : {
-      "comment" : "Label: Scroll Mode"
     },
     "Search" : {
       "comment" : "Field Placeholder: Search"
     },
-    "Secondary Text" : {
-      "comment" : "Label: Secondary Text"
-    },
     "See documents in “%@”" : {
       "comment" : "Prompt: see documents in document container"
-    },
-    "Select" : {
-      "comment" : "Label: Select"
     },
     "Set %@ of %@" : {
       "localizations" : {
@@ -2545,14 +2888,8 @@
     "Settings" : {
       "comment" : "Label: Settings"
     },
-    "Settings…" : {
-      "comment" : "Label: Settings…"
-    },
     "Share" : {
-      "comment" : "Label: Share\nShare"
-    },
-    "Share…" : {
-      "comment" : "Label: Share…"
+      "comment" : "Share"
     },
     "Show %@" : {
 
@@ -2566,26 +2903,8 @@
     "Shows the given outline in the foremost window of Zavala." : {
 
     },
-    "Small" : {
-      "comment" : "Label: Small"
-    },
-    "Sort Documents" : {
-      "comment" : "Label: Sort Documents"
-    },
-    "Sort Rows" : {
-      "comment" : "Label: Sort Rows"
-    },
-    "Split Row" : {
-      "comment" : "Label: Split Row"
-    },
     "Start Depth" : {
 
-    },
-    "Statistics" : {
-      "comment" : "Label: Statistics"
-    },
-    "Sync" : {
-      "comment" : "Label: Sync"
     },
     "Tag" : {
       "comment" : "Data Entry Placeholder: Tag"
@@ -2598,12 +2917,6 @@
     },
     "Tags" : {
       "comment" : "Font Label: Tags"
-    },
-    "Teal" : {
-      "comment" : "Label: Teal"
-    },
-    "Tertiary Text" : {
-      "comment" : "Label: Tertiary Text"
     },
     "The requested Outline was not found." : {
 
@@ -2620,9 +2933,6 @@
     "Title" : {
       "comment" : "Font Label: Title\nLabel: Title"
     },
-    "Toggle Sidebar" : {
-      "comment" : "Label: Toggle Sidebar"
-    },
     "Topic" : {
 
     },
@@ -2631,18 +2941,6 @@
     },
     "Topics" : {
 
-    },
-    "Turn Filter Off" : {
-      "comment" : "Label: Turn Filter Off"
-    },
-    "Turn Filter On" : {
-      "comment" : "Label: Turn Filter On"
-    },
-    "Typewriter" : {
-      "comment" : "Label: Typewriter"
-    },
-    "Typing" : {
-      "comment" : "Label: Typing"
     },
     "Unable to find the Outline or Row specified by the Entity ID." : {
 
