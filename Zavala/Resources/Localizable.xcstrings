@@ -1711,9 +1711,6 @@
     "Directly After" : {
 
     },
-    "Edit Outline" : {
-
-    },
     "Edit Rows" : {
 
     },
@@ -1894,6 +1891,17 @@
         }
       }
     },
+    "intent.description.edit-outline" : {
+      "comment" : "Intent description: Update the details of an Outline.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update the details of an Outline."
+          }
+        }
+      }
+    },
     "intent.parameter.account-type" : {
       "comment" : "Intent Parameter: Account Type",
       "localizations" : {
@@ -1916,6 +1924,17 @@
         }
       }
     },
+    "intent.parameter.detail" : {
+      "comment" : "Intent parameter: Detail",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detail"
+          }
+        }
+      }
+    },
     "intent.parameter.outline" : {
       "comment" : "Intent parameter: Outline",
       "localizations" : {
@@ -1934,6 +1953,39 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What is the title of the new Outline?"
+          }
+        }
+      }
+    },
+    "intent.parameter.owner-email" : {
+      "comment" : "Intent parameter: Owner Email",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner Email"
+          }
+        }
+      }
+    },
+    "intent.parameter.owner-name" : {
+      "comment" : "Intent parameter: Owner Name",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner Name"
+          }
+        }
+      }
+    },
+    "intent.parameter.owner-url" : {
+      "comment" : "Intent parameter: Owner URL",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner URL"
           }
         }
       }
@@ -1993,6 +2045,61 @@
         }
       }
     },
+    "intent.prediction.set-detail-%@-outline-%@" : {
+      "comment" : "Intent prediction: Set <detail> of <outline>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-detail-%@-outline-%@-ownerEmail-%@" : {
+      "comment" : "Intent prediction: Set <detail> of <outline> to <owner Email>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-detail-%@-outline-%@-ownerName-%@" : {
+      "comment" : "Intent prediction: Set <detail> of <outline> to <owner name>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-detail-%@-outline-%@-ownerURL-%@" : {
+      "comment" : "Intent prediction: Set <detail> of <outline> to <owner URL>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-detail-%@-outline-%@-title-%@" : {
+      "comment" : "Intent prediction: Set <detail> of <outline> to <title>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        }
+      }
+    },
     "intent.prompt.tag-name-to-add-%@" : {
       "comment" : "What is the <tagname> to add?",
       "localizations" : {
@@ -2024,6 +2131,56 @@
         }
       }
     },
+    "intent.summary.set-${detail}-of-${outline}" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${outline}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${outline}-to-${ownerEmail}" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${outline} to ${ownerEmail}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${outline}-to-${ownerName}" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${outline} to ${ownerName}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${outline}-to-${ownerURL}" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${outline} to ${ownerURL}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${outline}-to-${title}" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${outline} to ${title}"
+          }
+        }
+      }
+    },
     "intent.title.add-outline" : {
       "comment" : "Intent Title: Add Outline",
       "localizations" : {
@@ -2042,6 +2199,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add Outline Tag"
+          }
+        }
+      }
+    },
+    "intent.title.edit-outline" : {
+      "comment" : "Intent title: Edit Outline",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Outline"
           }
         }
       }
@@ -3330,16 +3498,6 @@
     "Set ${detail} of ${rows} to ${topic}" : {
 
     },
-    "Set%@ of%@ to %@" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Set%1$@ of%2$@ to %3$@"
-          }
-        }
-      }
-    },
     "Settings" : {
       "comment" : "Label: Settings"
     },
@@ -3383,9 +3541,6 @@
       "comment" : "Label: Uncomplete"
     },
     "Update the details of a Row." : {
-
-    },
-    "Update the details of an Outline." : {
 
     },
     "Updated" : {
