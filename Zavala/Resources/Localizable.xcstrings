@@ -538,42 +538,6 @@
         }
       }
     },
-    "action.text.enable-ipad" : {
-      "comment" : "Label: Enable On My iPad",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enable On My iPad"
-          }
-        }
-      }
-    },
-    "action.text.enable-iphone" : {
-      "comment" : "Label: Enable On My iPhone",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enable On My iPhone"
-          }
-        }
-      }
-    },
-    "action.text.enable-mac" : {
-      "comment" : "Label: Enable On My Mac",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enable On My Mac"
-          }
-        }
-      }
-    },
     "action.text.enable-on-my-device" : {
       "comment" : "Label: Enable On My <Device>",
       "localizations" : {
