@@ -23,7 +23,7 @@ struct ImportAppIntent: AppIntent, CustomIntentMigratedAppIntent, PredictableInt
     @Parameter(title: "Import Type")
 	var importType: ImportTypeAppEnum
 
-    @Parameter(title: "Account Type")
+    @Parameter(title: LocalizedStringResource("intent.parameter.account-type", comment: "Intent Parameter: Account Type"))
 	var accountType: AccountTypeAppEnum
 
     static var parameterSummary: some ParameterSummary {

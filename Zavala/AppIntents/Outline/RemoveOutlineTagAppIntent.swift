@@ -13,7 +13,7 @@ struct RemoveOutlineTagAppIntent: AppIntent, CustomIntentMigratedAppIntent, Pred
     static let title: LocalizedStringResource = "Remove Outline Tag"
     static let description = IntentDescription("Removes a Tag from the given Outline.")
 
-    @Parameter(title: "Outline")
+    @Parameter(title: LocalizedStringResource("intent.parameter.outline", comment: "Intent parameter: Outline"))
 	var outline: OutlineAppEntity
 
     @Parameter(title: "Tag Name")

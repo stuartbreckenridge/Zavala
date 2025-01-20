@@ -11,8 +11,8 @@ enum AccountTypeAppEnum: String, AppEnum {
 
     static let typeDisplayRepresentation = TypeDisplayRepresentation(name: "Account Type")
     static let caseDisplayRepresentations: [Self: DisplayRepresentation] = [
-        .onMyDevice: "On My Device",
-        .iCloud: "iCloud"
+		.onMyDevice: DisplayRepresentation(title: LocalizedStringResource("label.text.on-my-device", comment: "On My <device>")),
+		.iCloud: "iCloud" // Don't translate
     ]
 }
 

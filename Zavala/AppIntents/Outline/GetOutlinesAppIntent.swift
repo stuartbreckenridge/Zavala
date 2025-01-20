@@ -18,13 +18,14 @@ struct GetOutlinesAppIntent: AppIntent, CustomIntentMigratedAppIntent, ZavalaApp
     @Parameter(title: "Search")
     var search: String?
 
-    @Parameter(title: "Account Type")
+    @Parameter(title: LocalizedStringResource("intent.parameter.account-type", comment: "Intent Parameter: Account Type"))
 	var accountType: AccountTypeAppEnum?
 
     @Parameter(title: "Tag", optionsProvider: TagStringOptionsProvider())
     var tagNames: [String]?
 
-    @Parameter(title: "Outline", optionsProvider: OutlineStringOptionsProvider())
+    @Parameter(title: LocalizedStringResource("intent.parameter.outline", comment: "Intent parameter: Outline"),
+			   optionsProvider: OutlineStringOptionsProvider())
     var outlineNames: [String]?
 
     @Parameter(title: "Created Start Date")

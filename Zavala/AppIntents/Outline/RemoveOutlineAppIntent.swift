@@ -13,7 +13,7 @@ struct RemoveOutlineAppIntent: AppIntent, CustomIntentMigratedAppIntent, Predict
     static let title: LocalizedStringResource = "Remove Outline"
     static let description = IntentDescription("Deletes an Outline.")
 
-    @Parameter(title: "Outline")
+    @Parameter(title: LocalizedStringResource("intent.parameter.outline", comment: "Intent parameter: Outline"))
 	var outline: OutlineAppEntity
 
     static var parameterSummary: some ParameterSummary {

@@ -13,7 +13,7 @@ struct GetImagesForOutlineAppIntent: AppIntent, CustomIntentMigratedAppIntent, P
     static let title: LocalizedStringResource = "Get Images For Outline"
     static let description = IntentDescription("Gets all the Images associated with the given Outline. Useful for integrating with Outlines exported as Markdown.")
 
-    @Parameter(title: "Outline")
+    @Parameter(title: LocalizedStringResource("intent.parameter.outline", comment: "Intent parameter: Outline"))
 	var outline: OutlineAppEntity
 
     static var parameterSummary: some ParameterSummary {

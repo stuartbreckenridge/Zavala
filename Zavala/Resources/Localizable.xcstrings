@@ -40,9 +40,6 @@
     "Add Rows to an Outline." : {
 
     },
-    "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)" : {
-
-    },
     "button.text.actual-size" : {
       "comment" : "View Action: Actual Size",
       "localizations" : {
@@ -1705,9 +1702,6 @@
     "Detail" : {
 
     },
-    "Developed by [Maurice C. Parker](https://vincode.io)" : {
-      "comment" : "Label: Developed By"
-    },
     "Directly After" : {
 
     },
@@ -1728,17 +1722,6 @@
     },
     "Expanded State" : {
 
-    },
-    "Export" : {
-      "comment" : "Control Label: Export",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Export"
-          }
-        }
-      }
     },
     "Export Link Type" : {
       "localizations" : {
@@ -1761,9 +1744,6 @@
       }
     },
     "Export the ${outline} as ${exportType} using ${exportLinkType}" : {
-
-    },
-    "Export the outline in various formats." : {
 
     },
     "Export Type" : {
@@ -1931,6 +1911,28 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Detail"
+          }
+        }
+      }
+    },
+    "intent.parameter.export-link-type" : {
+      "comment" : "Intent parameter: Export Link Type",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Link Type"
+          }
+        }
+      }
+    },
+    "intent.parameter.export-type" : {
+      "comment" : "Intent parameter: Export Type",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Type"
           }
         }
       }
@@ -2214,6 +2216,28 @@
         }
       }
     },
+    "intent.title.export" : {
+      "comment" : "Intent title: Export",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        }
+      }
+    },
+    "intent.title.export-description" : {
+      "comment" : "Intent description: Export the outline in various formats.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export the outline in various formats."
+          }
+        }
+      }
+    },
     "label.text.about-zavala" : {
       "comment" : "Label: About Zavala",
       "localizations" : {
@@ -2243,6 +2267,28 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acknowledgements"
+          }
+        }
+      }
+    },
+    "label.text.app-developed-by" : {
+      "comment" : "Developed by [Maurice C. Parker](https://vincode.io)",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Developed by [Maurice C. Parker](https://vincode.io)"
+          }
+        }
+      }
+    },
+    "label.text.app-icon-credit" : {
+      "comment" : "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)"
           }
         }
       }
@@ -2864,6 +2910,65 @@
         }
       }
     },
+    "label.text.on-my-device" : {
+      "comment" : "On My <device>",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "appletv" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My Apple TV"
+                }
+              },
+              "applevision" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My Apple Vision"
+                }
+              },
+              "applewatch" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My Apple Watch"
+                }
+              },
+              "ipad" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My iPad"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My iPhone"
+                }
+              },
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My iPod"
+                }
+              },
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My Mac"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My Device"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "label.text.opml-ownership-description" : {
       "comment" : "Label: This information is included in OPML documents to attribute ownership.",
       "localizations" : {
@@ -3344,9 +3449,6 @@
 
     },
     "Note" : {
-
-    },
-    "On My Device" : {
 
     },
     "OPML" : {

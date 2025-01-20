@@ -155,6 +155,8 @@ extension String {
 	static let addTagControlLabel = String(localized: "button.text.add-tag", comment: "Outline Action: Add Tag")
 	static let addTopicLevelControlLabel = String(localized: "button.text.add-topic-level", comment: "Outline Action: Add Topic Level")
 	static let appHelpControlLabel = String(localized: "label.text.zavala-help", comment: "Label: Zavala Help")
+	static let appIconCreditLabel = String(localized: "label.text.app-icon-credit", comment: "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)")
+	static let appDevelopedByCreditLabel = String(localized: "label.text.app-developed-by", comment: "Developed by [Maurice C. Parker](https://vincode.io)")
 	static let ascendingControlLabel = String(localized: "button.text.ascending", comment: "Sort Action: Ascending")
 	static let automaticallyChangeLinkTitlesControlLabel = String(localized: "button.text.change-link-titles-automatically", comment: "Set Default Action: Change Link Titles Automatically")
 	static let automaticallyCreateLinksControlLabel = String(localized: "button.text.create-links-automatically", comment: "Set Default Action: Create Links Automatically")
