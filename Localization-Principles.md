@@ -7,6 +7,6 @@
 
 ## Key Formats
 
-- For strings that are static and have no associated action: `label.text.string-summary`.
-- For strings that are have an action associated: `action.text.string-summary`. 
+- For labels that are static and have no associated action: `label.text.string-summary`.
+- For button labels or items that have have an action associated: `button.text.string-summary`. 
 - For help text that differs from the the label or the action: `help.text.string-summary`.

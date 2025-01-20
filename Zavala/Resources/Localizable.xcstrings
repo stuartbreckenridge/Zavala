@@ -21,7 +21,29 @@
     "Accounts" : {
       "comment" : "Control Label: Accounts"
     },
-    "action.text.actual-size" : {
+    "Add %@ to %@ at %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add %1$@ to %2$@ at %3$@"
+          }
+        }
+      }
+    },
+    "Add ${topics} to ${entityID} at ${destination}" : {
+
+    },
+    "Add Rows" : {
+
+    },
+    "Add Rows to an Outline." : {
+
+    },
+    "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)" : {
+
+    },
+    "button.text.actual-size" : {
       "comment" : "View Action: Actual Size",
       "localizations" : {
         "en" : {
@@ -32,7 +54,7 @@
         }
       }
     },
-    "action.text.add" : {
+    "button.text.add" : {
       "comment" : "Outline Action: Add",
       "localizations" : {
         "en" : {
@@ -43,7 +65,7 @@
         }
       }
     },
-    "action.text.add-note" : {
+    "button.text.add-note" : {
       "comment" : "Outline Action: Add Note",
       "localizations" : {
         "en" : {
@@ -54,7 +76,7 @@
         }
       }
     },
-    "action.text.add-note-level" : {
+    "button.text.add-note-level" : {
       "comment" : "Action: Add Note Level",
       "localizations" : {
         "en" : {
@@ -65,7 +87,7 @@
         }
       }
     },
-    "action.text.add-numbering-level" : {
+    "button.text.add-numbering-level" : {
       "comment" : "Action: Add Numbering Level",
       "localizations" : {
         "en" : {
@@ -76,7 +98,7 @@
         }
       }
     },
-    "action.text.add-row" : {
+    "button.text.add-row" : {
       "comment" : "Outline Action: Add Row",
       "localizations" : {
         "en" : {
@@ -87,7 +109,7 @@
         }
       }
     },
-    "action.text.add-row-above" : {
+    "button.text.add-row-above" : {
       "comment" : "Outline Action: Add Row Above",
       "localizations" : {
         "en" : {
@@ -98,7 +120,7 @@
         }
       }
     },
-    "action.text.add-row-after" : {
+    "button.text.add-row-after" : {
       "comment" : "Outline Action: Add Row After",
       "localizations" : {
         "en" : {
@@ -109,7 +131,7 @@
         }
       }
     },
-    "action.text.add-row-below" : {
+    "button.text.add-row-below" : {
       "comment" : "Outline Action: Add Row Below",
       "localizations" : {
         "en" : {
@@ -120,7 +142,7 @@
         }
       }
     },
-    "action.text.add-row-inside" : {
+    "button.text.add-row-inside" : {
       "comment" : "Outline Action: Add Row Inside",
       "localizations" : {
         "en" : {
@@ -131,7 +153,7 @@
         }
       }
     },
-    "action.text.add-row-outside" : {
+    "button.text.add-row-outside" : {
       "comment" : "Outline Action: Add Row Outside",
       "localizations" : {
         "en" : {
@@ -142,7 +164,7 @@
         }
       }
     },
-    "action.text.add-tag" : {
+    "button.text.add-tag" : {
       "comment" : "Outline Action: Add Tag",
       "localizations" : {
         "en" : {
@@ -153,7 +175,7 @@
         }
       }
     },
-    "action.text.add-topic-level" : {
+    "button.text.add-topic-level" : {
       "comment" : "Outline Action: Add Topic Level",
       "localizations" : {
         "en" : {
@@ -164,7 +186,7 @@
         }
       }
     },
-    "action.text.always-delete-without-asking" : {
+    "button.text.always-delete-without-asking" : {
       "comment" : "Delete Action: Always Delete Without Asking",
       "localizations" : {
         "en" : {
@@ -175,7 +197,7 @@
         }
       }
     },
-    "action.text.ascending" : {
+    "button.text.ascending" : {
       "comment" : "Sort Action: Ascending",
       "localizations" : {
         "en" : {
@@ -186,7 +208,7 @@
         }
       }
     },
-    "action.text.automatic-color-palette" : {
+    "button.text.automatic-color-palette" : {
       "comment" : "Set App Color Palette Action: Automatic",
       "localizations" : {
         "en" : {
@@ -197,7 +219,7 @@
         }
       }
     },
-    "action.text.back" : {
+    "button.text.back" : {
       "comment" : "Navigation Action: Back",
       "localizations" : {
         "en" : {
@@ -208,7 +230,7 @@
         }
       }
     },
-    "action.text.cancel" : {
+    "button.text.cancel" : {
       "comment" : "Action: Cancel",
       "localizations" : {
         "en" : {
@@ -219,7 +241,7 @@
         }
       }
     },
-    "action.text.change-link-titles-automatically" : {
+    "button.text.change-link-titles-automatically" : {
       "comment" : "Set Default Action: Change Link Titles Automatically",
       "localizations" : {
         "en" : {
@@ -230,7 +252,7 @@
         }
       }
     },
-    "action.text.check-spelling-while-typing" : {
+    "button.text.check-spelling-while-typing" : {
       "comment" : "Set Default Action: Check Spelling While Typing",
       "localizations" : {
         "en" : {
@@ -241,7 +263,7 @@
         }
       }
     },
-    "action.text.collapse" : {
+    "button.text.collapse" : {
       "comment" : "Outline Action: Collapse",
       "localizations" : {
         "en" : {
@@ -252,7 +274,7 @@
         }
       }
     },
-    "action.text.collapse-all" : {
+    "button.text.collapse-all" : {
       "comment" : "Outline Action: Collapse All",
       "localizations" : {
         "en" : {
@@ -263,7 +285,7 @@
         }
       }
     },
-    "action.text.collapse-all-in-outline" : {
+    "button.text.collapse-all-in-outline" : {
       "comment" : "Outline Action: Collapse All in Outline",
       "localizations" : {
         "en" : {
@@ -274,7 +296,7 @@
         }
       }
     },
-    "action.text.collapse-all-in-row" : {
+    "button.text.collapse-all-in-row" : {
       "comment" : "Outline Action: Collapse All in Row",
       "localizations" : {
         "en" : {
@@ -285,7 +307,7 @@
         }
       }
     },
-    "action.text.copy" : {
+    "button.text.copy" : {
       "comment" : "Action: Copy",
       "localizations" : {
         "en" : {
@@ -296,7 +318,7 @@
         }
       }
     },
-    "action.text.copy-document-link" : {
+    "button.text.copy-document-link" : {
       "comment" : "Document Action: Copy Document Link",
       "localizations" : {
         "en" : {
@@ -307,7 +329,7 @@
         }
       }
     },
-    "action.text.copy-document-links" : {
+    "button.text.copy-document-links" : {
       "comment" : "Document Action: Copy Document Links",
       "localizations" : {
         "en" : {
@@ -318,7 +340,7 @@
         }
       }
     },
-    "action.text.copy-row-link" : {
+    "button.text.copy-row-link" : {
       "comment" : "Document Action: Copy Row Link",
       "localizations" : {
         "en" : {
@@ -329,7 +351,7 @@
         }
       }
     },
-    "action.text.correct-spelling-automatically" : {
+    "button.text.correct-spelling-automatically" : {
       "comment" : "Default Action: Correct Spelling Automatically",
       "localizations" : {
         "en" : {
@@ -340,7 +362,7 @@
         }
       }
     },
-    "action.text.create-links-automatically" : {
+    "button.text.create-links-automatically" : {
       "comment" : "Set Default Action: Create Links Automatically",
       "localizations" : {
         "en" : {
@@ -351,7 +373,7 @@
         }
       }
     },
-    "action.text.cut" : {
+    "button.text.cut" : {
       "comment" : "Action: Cut",
       "localizations" : {
         "en" : {
@@ -362,7 +384,7 @@
         }
       }
     },
-    "action.text.delete" : {
+    "button.text.delete" : {
       "comment" : "Action: Delete",
       "localizations" : {
         "en" : {
@@ -373,7 +395,7 @@
         }
       }
     },
-    "action.text.delete-note" : {
+    "button.text.delete-note" : {
       "comment" : "Action: Delete Note",
       "localizations" : {
         "en" : {
@@ -384,7 +406,7 @@
         }
       }
     },
-    "action.text.delete-once" : {
+    "button.text.delete-once" : {
       "comment" : "Action: Delete Once",
       "localizations" : {
         "en" : {
@@ -395,7 +417,7 @@
         }
       }
     },
-    "action.text.delete-outline" : {
+    "button.text.delete-outline" : {
       "comment" : "Action: Delete Outline",
       "localizations" : {
         "en" : {
@@ -406,7 +428,7 @@
         }
       }
     },
-    "action.text.delete-outline-message" : {
+    "button.text.delete-outline-message" : {
       "comment" : "Alert Message: The outline will be deleted and unrecoverable.",
       "localizations" : {
         "en" : {
@@ -417,7 +439,7 @@
         }
       }
     },
-    "action.text.delete-outlines-message" : {
+    "button.text.delete-outlines-message" : {
       "comment" : "Alert Message: The outlines will be deleted and unrecoverable.",
       "localizations" : {
         "en" : {
@@ -428,7 +450,7 @@
         }
       }
     },
-    "action.text.delete-row" : {
+    "button.text.delete-row" : {
       "comment" : "Action: Delete Row",
       "localizations" : {
         "en" : {
@@ -439,7 +461,7 @@
         }
       }
     },
-    "action.text.delete-rows" : {
+    "button.text.delete-rows" : {
       "comment" : "Action: Delete Rows",
       "localizations" : {
         "en" : {
@@ -450,7 +472,7 @@
         }
       }
     },
-    "action.text.delete-tag-message." : {
+    "button.text.delete-tag-message." : {
       "comment" : "Alert Message: Any child Tag associated with this Tag will also be deleted. No Outlines associated with this Tag will be deleted.",
       "localizations" : {
         "en" : {
@@ -461,7 +483,7 @@
         }
       }
     },
-    "action.text.delete-tags-message." : {
+    "button.text.delete-tags-message." : {
       "comment" : "Alert Message: Any child Tag associated with these Tags will also be deleted. No Outlines associated with these Tags will be deleted.",
       "localizations" : {
         "en" : {
@@ -472,7 +494,7 @@
         }
       }
     },
-    "action.text.descending" : {
+    "button.text.descending" : {
       "comment" : "Action: Descending",
       "localizations" : {
         "en" : {
@@ -483,7 +505,7 @@
         }
       }
     },
-    "action.text.disable-animations" : {
+    "button.text.disable-animations" : {
       "comment" : "Action: Disable Animations",
       "localizations" : {
         "en" : {
@@ -494,7 +516,7 @@
         }
       }
     },
-    "action.text.duplicate" : {
+    "button.text.duplicate" : {
       "comment" : "Action: Duplicate",
       "localizations" : {
         "en" : {
@@ -505,7 +527,7 @@
         }
       }
     },
-    "action.text.duplicate-row" : {
+    "button.text.duplicate-row" : {
       "comment" : "Action: Duplicate Row",
       "localizations" : {
         "en" : {
@@ -516,7 +538,7 @@
         }
       }
     },
-    "action.text.duplicate-rows" : {
+    "button.text.duplicate-rows" : {
       "comment" : "Action: Duplicate Rows",
       "localizations" : {
         "en" : {
@@ -527,7 +549,7 @@
         }
       }
     },
-    "action.text.enable-icloud" : {
+    "button.text.enable-icloud" : {
       "comment" : "Label: Enable iCloud",
       "localizations" : {
         "en" : {
@@ -538,7 +560,7 @@
         }
       }
     },
-    "action.text.enable-on-my-device" : {
+    "button.text.enable-on-my-device" : {
       "comment" : "Label: Enable On My <Device>",
       "localizations" : {
         "en" : {
@@ -597,7 +619,7 @@
         }
       }
     },
-    "action.text.expand" : {
+    "button.text.expand" : {
       "comment" : "Action: Expand",
       "localizations" : {
         "en" : {
@@ -608,7 +630,7 @@
         }
       }
     },
-    "action.text.expand-all" : {
+    "button.text.expand-all" : {
       "comment" : "Action: Expand All",
       "localizations" : {
         "en" : {
@@ -619,7 +641,7 @@
         }
       }
     },
-    "action.text.expand-all-in-outline" : {
+    "button.text.expand-all-in-outline" : {
       "comment" : "Action: Expand All in Outline",
       "localizations" : {
         "en" : {
@@ -630,7 +652,7 @@
         }
       }
     },
-    "action.text.expand-all-in-row" : {
+    "button.text.expand-all-in-row" : {
       "comment" : "Action: Expand All in Row",
       "localizations" : {
         "en" : {
@@ -641,7 +663,7 @@
         }
       }
     },
-    "action.text.export" : {
+    "button.text.export" : {
       "comment" : "Action: Export",
       "localizations" : {
         "en" : {
@@ -652,7 +674,7 @@
         }
       }
     },
-    "action.text.export-markdown-doc-with-ellipsis" : {
+    "button.text.export-markdown-doc-with-ellipsis" : {
       "comment" : "Action: Export Markdown Doc…",
       "localizations" : {
         "en" : {
@@ -663,7 +685,7 @@
         }
       }
     },
-    "action.text.export-markdown-list-with-ellipsis" : {
+    "button.text.export-markdown-list-with-ellipsis" : {
       "comment" : "Action: Export Markdown List…",
       "localizations" : {
         "en" : {
@@ -674,7 +696,7 @@
         }
       }
     },
-    "action.text.export-opml-ellipsis" : {
+    "button.text.export-opml-ellipsis" : {
       "comment" : "Action: Export OPML…",
       "localizations" : {
         "en" : {
@@ -685,7 +707,7 @@
         }
       }
     },
-    "action.text.export-pdf-doc-with-ellipsis" : {
+    "button.text.export-pdf-doc-with-ellipsis" : {
       "comment" : "Action: Export PDF Doc…",
       "localizations" : {
         "en" : {
@@ -696,7 +718,7 @@
         }
       }
     },
-    "action.text.export-pdf-list-with-ellipsis" : {
+    "button.text.export-pdf-list-with-ellipsis" : {
       "comment" : "Action: Export PDF List…",
       "localizations" : {
         "en" : {
@@ -707,7 +729,7 @@
         }
       }
     },
-    "action.text.filter" : {
+    "button.text.filter" : {
       "comment" : "Action: Filter",
       "localizations" : {
         "en" : {
@@ -718,7 +740,7 @@
         }
       }
     },
-    "action.text.filter-notes" : {
+    "button.text.filter-notes" : {
       "comment" : "Action: Filter Notes",
       "localizations" : {
         "en" : {
@@ -729,7 +751,7 @@
         }
       }
     },
-    "action.text.find" : {
+    "button.text.find" : {
       "comment" : "Action: Find",
       "localizations" : {
         "en" : {
@@ -740,7 +762,7 @@
         }
       }
     },
-    "action.text.find-next" : {
+    "button.text.find-next" : {
       "comment" : "Action: Find Next",
       "localizations" : {
         "en" : {
@@ -751,7 +773,7 @@
         }
       }
     },
-    "action.text.find-previous" : {
+    "button.text.find-previous" : {
       "comment" : "Action: Find Previous",
       "localizations" : {
         "en" : {
@@ -762,7 +784,7 @@
         }
       }
     },
-    "action.text.find-with-ellipsis" : {
+    "button.text.find-with-ellipsis" : {
       "comment" : "Action: Find…",
       "localizations" : {
         "en" : {
@@ -773,7 +795,7 @@
         }
       }
     },
-    "action.text.fix-it" : {
+    "button.text.fix-it" : {
       "comment" : "Action: Fix It",
       "localizations" : {
         "en" : {
@@ -784,7 +806,7 @@
         }
       }
     },
-    "action.text.focus-in" : {
+    "button.text.focus-in" : {
       "comment" : "Action: Focus In",
       "localizations" : {
         "en" : {
@@ -795,7 +817,7 @@
         }
       }
     },
-    "action.text.focus-out" : {
+    "button.text.focus-out" : {
       "comment" : "Action: Focus Out",
       "localizations" : {
         "en" : {
@@ -806,7 +828,7 @@
         }
       }
     },
-    "action.text.forward" : {
+    "button.text.forward" : {
       "comment" : "Action: Forward",
       "localizations" : {
         "en" : {
@@ -817,7 +839,7 @@
         }
       }
     },
-    "action.text.full-width" : {
+    "button.text.full-width" : {
       "comment" : "Action: Full Width",
       "localizations" : {
         "en" : {
@@ -828,7 +850,7 @@
         }
       }
     },
-    "action.text.general" : {
+    "button.text.general" : {
       "comment" : "Action: General",
       "localizations" : {
         "en" : {
@@ -839,7 +861,7 @@
         }
       }
     },
-    "action.text.get-info" : {
+    "button.text.get-info" : {
       "comment" : "Action: Get Info",
       "localizations" : {
         "en" : {
@@ -850,7 +872,7 @@
         }
       }
     },
-    "action.text.go-backward" : {
+    "button.text.go-backward" : {
       "comment" : "Action: Go Backward",
       "localizations" : {
         "en" : {
@@ -861,7 +883,7 @@
         }
       }
     },
-    "action.text.go-forward" : {
+    "button.text.go-forward" : {
       "comment" : "Action: Go Forward",
       "localizations" : {
         "en" : {
@@ -872,7 +894,7 @@
         }
       }
     },
-    "action.text.group-row" : {
+    "button.text.group-row" : {
       "comment" : "Action: Group Row",
       "localizations" : {
         "en" : {
@@ -883,7 +905,7 @@
         }
       }
     },
-    "action.text.group-rows" : {
+    "button.text.group-rows" : {
       "comment" : "Action: Group Rows",
       "localizations" : {
         "en" : {
@@ -894,7 +916,7 @@
         }
       }
     },
-    "action.text.hide-keyboard" : {
+    "button.text.hide-keyboard" : {
       "comment" : "Action: Hide Keyboard",
       "localizations" : {
         "en" : {
@@ -905,7 +927,7 @@
         }
       }
     },
-    "action.text.import-opml" : {
+    "button.text.import-opml" : {
       "comment" : "Action: Import OPML",
       "localizations" : {
         "en" : {
@@ -916,7 +938,7 @@
         }
       }
     },
-    "action.text.import-opml-with-ellipsis" : {
+    "button.text.import-opml-with-ellipsis" : {
       "comment" : "Action: Import OPML…",
       "localizations" : {
         "en" : {
@@ -927,7 +949,7 @@
         }
       }
     },
-    "action.text.insert-image" : {
+    "button.text.insert-image" : {
       "comment" : "Action: Insert Image",
       "localizations" : {
         "en" : {
@@ -938,7 +960,7 @@
         }
       }
     },
-    "action.text.insert-image-with-ellipsis" : {
+    "button.text.insert-image-with-ellipsis" : {
       "comment" : "Label: Insert Image…",
       "localizations" : {
         "en" : {
@@ -949,7 +971,7 @@
         }
       }
     },
-    "action.text.italic" : {
+    "button.text.italic" : {
       "comment" : "Set Font Action: Italic",
       "localizations" : {
         "en" : {
@@ -960,7 +982,7 @@
         }
       }
     },
-    "action.text.jump-to-note" : {
+    "button.text.jump-to-note" : {
       "comment" : "Action: Jump to Note",
       "localizations" : {
         "en" : {
@@ -971,7 +993,7 @@
         }
       }
     },
-    "action.text.jump-to-topic" : {
+    "button.text.jump-to-topic" : {
       "comment" : "Action: Jump to Topic",
       "localizations" : {
         "en" : {
@@ -982,7 +1004,7 @@
         }
       }
     },
-    "action.text.large" : {
+    "button.text.large" : {
       "comment" : "Action: Large",
       "localizations" : {
         "en" : {
@@ -993,7 +1015,7 @@
         }
       }
     },
-    "action.text.light" : {
+    "button.text.light" : {
       "comment" : "Set App Appearance Action: Light",
       "localizations" : {
         "en" : {
@@ -1004,7 +1026,7 @@
         }
       }
     },
-    "action.text.medium" : {
+    "button.text.medium" : {
       "comment" : "Set Appearance Action: Medium",
       "localizations" : {
         "en" : {
@@ -1015,7 +1037,7 @@
         }
       }
     },
-    "action.text.mint" : {
+    "button.text.mint" : {
       "comment" : "Set Font Color Action: Mint",
       "localizations" : {
         "en" : {
@@ -1026,7 +1048,7 @@
         }
       }
     },
-    "action.text.move-down" : {
+    "button.text.move-down" : {
       "comment" : "Action: Move Down",
       "localizations" : {
         "en" : {
@@ -1037,7 +1059,7 @@
         }
       }
     },
-    "action.text.move-left" : {
+    "button.text.move-left" : {
       "comment" : "Action: Move Left",
       "localizations" : {
         "en" : {
@@ -1048,7 +1070,7 @@
         }
       }
     },
-    "action.text.move-right" : {
+    "button.text.move-right" : {
       "comment" : "Action: Move Right",
       "localizations" : {
         "en" : {
@@ -1059,7 +1081,7 @@
         }
       }
     },
-    "action.text.move-up" : {
+    "button.text.move-up" : {
       "comment" : "Action: Move Up",
       "localizations" : {
         "en" : {
@@ -1070,7 +1092,7 @@
         }
       }
     },
-    "action.text.new-outline" : {
+    "button.text.new-outline" : {
       "comment" : "Action: New Outline",
       "localizations" : {
         "en" : {
@@ -1081,7 +1103,7 @@
         }
       }
     },
-    "action.text.next-result" : {
+    "button.text.next-result" : {
       "comment" : "Action: Next Result",
       "localizations" : {
         "en" : {
@@ -1092,7 +1114,7 @@
         }
       }
     },
-    "action.text.normal" : {
+    "button.text.normal" : {
       "comment" : "Label: Normal",
       "localizations" : {
         "en" : {
@@ -1103,7 +1125,7 @@
         }
       }
     },
-    "action.text.open-quickly" : {
+    "button.text.open-quickly" : {
       "comment" : "Action: Open Quickly",
       "localizations" : {
         "en" : {
@@ -1114,7 +1136,7 @@
         }
       }
     },
-    "action.text.open-quickly-with-ellipsis" : {
+    "button.text.open-quickly-with-ellipsis" : {
       "comment" : "Action: Open Quickly…",
       "localizations" : {
         "en" : {
@@ -1125,7 +1147,7 @@
         }
       }
     },
-    "action.text.orange" : {
+    "button.text.orange" : {
       "comment" : "Set Font Color Action: Orange",
       "localizations" : {
         "en" : {
@@ -1136,7 +1158,7 @@
         }
       }
     },
-    "action.text.paste" : {
+    "button.text.paste" : {
       "comment" : "Action: Paste",
       "localizations" : {
         "en" : {
@@ -1147,7 +1169,7 @@
         }
       }
     },
-    "action.text.pink" : {
+    "button.text.pink" : {
       "comment" : "Set Font Color Action: Pink",
       "localizations" : {
         "en" : {
@@ -1158,7 +1180,7 @@
         }
       }
     },
-    "action.text.previous-result" : {
+    "button.text.previous-result" : {
       "comment" : "Action: Previous Result",
       "localizations" : {
         "en" : {
@@ -1169,7 +1191,7 @@
         }
       }
     },
-    "action.text.print" : {
+    "button.text.print" : {
       "comment" : "Action: Print",
       "localizations" : {
         "en" : {
@@ -1180,7 +1202,7 @@
         }
       }
     },
-    "action.text.print-doc" : {
+    "button.text.print-doc" : {
       "comment" : "Action: Print Doc",
       "localizations" : {
         "en" : {
@@ -1191,7 +1213,7 @@
         }
       }
     },
-    "action.text.print-doc-with-ellipsis" : {
+    "button.text.print-doc-with-ellipsis" : {
       "comment" : "Action: Print Doc…",
       "localizations" : {
         "en" : {
@@ -1202,7 +1224,7 @@
         }
       }
     },
-    "action.text.print-list" : {
+    "button.text.print-list" : {
       "comment" : "Action: Print List",
       "localizations" : {
         "en" : {
@@ -1213,7 +1235,7 @@
         }
       }
     },
-    "action.text.print-list-with-ellipsis" : {
+    "button.text.print-list-with-ellipsis" : {
       "comment" : "Label: Print List…",
       "localizations" : {
         "en" : {
@@ -1224,7 +1246,7 @@
         }
       }
     },
-    "action.text.provide-feedback" : {
+    "button.text.provide-feedback" : {
       "comment" : "Action: Provide Feedback",
       "localizations" : {
         "en" : {
@@ -1235,7 +1257,7 @@
         }
       }
     },
-    "action.text.purple" : {
+    "button.text.purple" : {
       "comment" : "Set Font Color Action: Purple",
       "localizations" : {
         "en" : {
@@ -1246,7 +1268,7 @@
         }
       }
     },
-    "action.text.red" : {
+    "button.text.red" : {
       "comment" : "Set Font Color Action: Red",
       "localizations" : {
         "en" : {
@@ -1257,7 +1279,7 @@
         }
       }
     },
-    "action.text.redo" : {
+    "button.text.redo" : {
       "comment" : "Action: Redo",
       "localizations" : {
         "en" : {
@@ -1268,7 +1290,7 @@
         }
       }
     },
-    "action.text.remove" : {
+    "button.text.remove" : {
       "comment" : "Action: Remove",
       "localizations" : {
         "en" : {
@@ -1279,7 +1301,7 @@
         }
       }
     },
-    "action.text.remove-tag" : {
+    "button.text.remove-tag" : {
       "comment" : "Action: Remove Tag",
       "localizations" : {
         "en" : {
@@ -1290,7 +1312,7 @@
         }
       }
     },
-    "action.text.rename" : {
+    "button.text.rename" : {
       "comment" : "Action: Rename",
       "localizations" : {
         "en" : {
@@ -1301,7 +1323,7 @@
         }
       }
     },
-    "action.text.replace" : {
+    "button.text.replace" : {
       "comment" : "Action: Replace",
       "localizations" : {
         "en" : {
@@ -1312,7 +1334,7 @@
         }
       }
     },
-    "action.text.restore" : {
+    "button.text.restore" : {
       "comment" : "Action: Restore",
       "localizations" : {
         "en" : {
@@ -1323,7 +1345,7 @@
         }
       }
     },
-    "action.text.save" : {
+    "button.text.save" : {
       "comment" : "Action: Save",
       "localizations" : {
         "en" : {
@@ -1334,7 +1356,7 @@
         }
       }
     },
-    "action.text.select" : {
+    "button.text.select" : {
       "comment" : "Action: Select",
       "localizations" : {
         "en" : {
@@ -1345,7 +1367,7 @@
         }
       }
     },
-    "action.text.set-appearance-dark" : {
+    "button.text.set-appearance-dark" : {
       "comment" : "Set App Color Palette Action: Dark",
       "localizations" : {
         "en" : {
@@ -1356,7 +1378,7 @@
         }
       }
     },
-    "action.text.set-font-blue" : {
+    "button.text.set-font-blue" : {
       "comment" : "Set Font Color Action: Blue",
       "localizations" : {
         "en" : {
@@ -1367,7 +1389,7 @@
         }
       }
     },
-    "action.text.set-font-bold" : {
+    "button.text.set-font-bold" : {
       "comment" : "Set Font Weight Action: Bold",
       "localizations" : {
         "en" : {
@@ -1378,7 +1400,7 @@
         }
       }
     },
-    "action.text.set-font-brown" : {
+    "button.text.set-font-brown" : {
       "comment" : "Set Font Color Action: Brown",
       "localizations" : {
         "en" : {
@@ -1389,7 +1411,7 @@
         }
       }
     },
-    "action.text.set-font-cyan" : {
+    "button.text.set-font-cyan" : {
       "comment" : "Set Font Color Action: Cyan",
       "localizations" : {
         "en" : {
@@ -1400,7 +1422,7 @@
         }
       }
     },
-    "action.text.set-font-green" : {
+    "button.text.set-font-green" : {
       "comment" : "Set Font Color Action: Green",
       "localizations" : {
         "en" : {
@@ -1411,7 +1433,7 @@
         }
       }
     },
-    "action.text.set-font-indigo" : {
+    "button.text.set-font-indigo" : {
       "comment" : "Set Font Color Action: Indigo",
       "localizations" : {
         "en" : {
@@ -1422,7 +1444,7 @@
         }
       }
     },
-    "action.text.share" : {
+    "button.text.share" : {
       "comment" : "Action: Share",
       "localizations" : {
         "en" : {
@@ -1433,7 +1455,7 @@
         }
       }
     },
-    "action.text.share-with-ellipsis" : {
+    "button.text.share-with-ellipsis" : {
       "comment" : "Label: Share…",
       "localizations" : {
         "en" : {
@@ -1444,7 +1466,7 @@
         }
       }
     },
-    "action.text.small" : {
+    "button.text.small" : {
       "comment" : "Action: Small",
       "localizations" : {
         "en" : {
@@ -1455,7 +1477,7 @@
         }
       }
     },
-    "action.text.sort-documents" : {
+    "button.text.sort-documents" : {
       "comment" : "Action: Sort Documents",
       "localizations" : {
         "en" : {
@@ -1466,7 +1488,7 @@
         }
       }
     },
-    "action.text.sort-rows" : {
+    "button.text.sort-rows" : {
       "comment" : "Action: Sort Rows",
       "localizations" : {
         "en" : {
@@ -1477,7 +1499,7 @@
         }
       }
     },
-    "action.text.split-row" : {
+    "button.text.split-row" : {
       "comment" : "Action: Split Row",
       "localizations" : {
         "en" : {
@@ -1488,7 +1510,7 @@
         }
       }
     },
-    "action.text.sync" : {
+    "button.text.sync" : {
       "comment" : "Label: Sync",
       "localizations" : {
         "en" : {
@@ -1499,7 +1521,7 @@
         }
       }
     },
-    "action.text.teal" : {
+    "button.text.teal" : {
       "comment" : "Set Font Color Appearance: Teal",
       "localizations" : {
         "en" : {
@@ -1510,7 +1532,7 @@
         }
       }
     },
-    "action.text.toggle-sidebar" : {
+    "button.text.toggle-sidebar" : {
       "comment" : "Action: Toggle Sidebar",
       "localizations" : {
         "en" : {
@@ -1521,7 +1543,7 @@
         }
       }
     },
-    "action.text.turn-filter-off" : {
+    "button.text.turn-filter-off" : {
       "comment" : "Action: Turn Filter Off",
       "localizations" : {
         "en" : {
@@ -1532,7 +1554,7 @@
         }
       }
     },
-    "action.text.turn-filter-on" : {
+    "button.text.turn-filter-on" : {
       "comment" : "Label: Turn Filter On",
       "localizations" : {
         "en" : {
@@ -1543,7 +1565,7 @@
         }
       }
     },
-    "action.text.uncomplete" : {
+    "button.text.uncomplete" : {
       "comment" : "Action: Uncomplete",
       "localizations" : {
         "en" : {
@@ -1554,7 +1576,7 @@
         }
       }
     },
-    "action.text.undo" : {
+    "button.text.undo" : {
       "comment" : "Action: Undo",
       "localizations" : {
         "en" : {
@@ -1565,7 +1587,7 @@
         }
       }
     },
-    "action.text.use-main-window-as-default" : {
+    "button.text.use-main-window-as-default" : {
       "comment" : "Action: Use Main Window as Default",
       "localizations" : {
         "en" : {
@@ -1576,7 +1598,7 @@
         }
       }
     },
-    "action.text.use-selection-for-find" : {
+    "button.text.use-selection-for-find" : {
       "comment" : "Action: Use Selection For Find",
       "localizations" : {
         "en" : {
@@ -1587,7 +1609,7 @@
         }
       }
     },
-    "action.text.wide" : {
+    "button.text.wide" : {
       "comment" : "Label: Wide",
       "localizations" : {
         "en" : {
@@ -1598,7 +1620,7 @@
         }
       }
     },
-    "action.text.yellow" : {
+    "button.text.yellow" : {
       "comment" : "Set Font Color Action: Yellow",
       "localizations" : {
         "en" : {
@@ -1609,7 +1631,7 @@
         }
       }
     },
-    "action.text.zoom-in" : {
+    "button.text.zoom-in" : {
       "comment" : "Action: Zoom In",
       "localizations" : {
         "en" : {
@@ -1620,7 +1642,7 @@
         }
       }
     },
-    "action.text.zoom-out" : {
+    "button.text.zoom-out" : {
       "comment" : "Action: Zoom Out",
       "localizations" : {
         "en" : {
@@ -1630,50 +1652,6 @@
           }
         }
       }
-    },
-    "Add %@ to %@" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add %1$@ to %2$@"
-          }
-        }
-      }
-    },
-    "Add %@ to %@ at %@" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add %1$@ to %2$@ at %3$@"
-          }
-        }
-      }
-    },
-    "Add ${tagName} to ${outline}" : {
-
-    },
-    "Add ${topics} to ${entityID} at ${destination}" : {
-
-    },
-    "Add a Tag to the given Outline." : {
-
-    },
-    "Add Outline Tag" : {
-
-    },
-    "Add Rows" : {
-
-    },
-    "Add Rows to an Outline." : {
-
-    },
-    "An unexpected error occurred. Please try again." : {
-
-    },
-    "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)" : {
-
     },
     "Close" : {
       "comment" : "Close"
@@ -1905,6 +1883,17 @@
         }
       }
     },
+    "intent.description.add-outline-tag" : {
+      "comment" : "Intent description: Add a Tag to the given Outline.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a Tag to the given Outline."
+          }
+        }
+      }
+    },
     "intent.parameter.account-type" : {
       "comment" : "Intent Parameter: Account Type",
       "localizations" : {
@@ -1927,6 +1916,17 @@
         }
       }
     },
+    "intent.parameter.outline" : {
+      "comment" : "Intent parameter: Outline",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outline"
+          }
+        }
+      }
+    },
     "intent.parameter.outline-title-request" : {
       "comment" : "Intent request dialog: What is the title of the new Outline?",
       "localizations" : {
@@ -1934,6 +1934,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What is the title of the new Outline?"
+          }
+        }
+      }
+    },
+    "intent.parameter.tag-name" : {
+      "comment" : "Intent paramter: Tag Name",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag Name"
           }
         }
       }
@@ -1971,6 +1982,38 @@
         }
       }
     },
+    "intent.prediction.add-tag-%@-to-%@" : {
+      "comment" : "Intent prediction: Add <tagname> to <outline>",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add %1$@ to %2$@"
+          }
+        }
+      }
+    },
+    "intent.prompt.tag-name-to-add-%@" : {
+      "comment" : "What is the <tagname> to add?",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is the %@ to add?"
+          }
+        }
+      }
+    },
+    "intent.summary-add-tag-${tagName}-to-outline-${outline}" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add tag ${tagName} to ${outline}"
+          }
+        }
+      }
+    },
     "intent.summary.add-outline-${title}-to-${accountType}" : {
       "localizations" : {
         "en" : {
@@ -1988,6 +2031,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add Outline"
+          }
+        }
+      }
+    },
+    "intent.title.add-outline-tag" : {
+      "comment" : "Intent title: Add Outline Tag",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Outline Tag"
           }
         }
       }
@@ -2385,6 +2439,83 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Import Failed"
+          }
+        }
+      }
+    },
+    "label.text.intent-error-account-not available" : {
+      "comment" : "Error text: The specified Account isn't available to be used.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The specified Account isn't available to be used."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-invalid-destination-outline-entity-id" : {
+      "comment" : "Error text: The specified Destination is not a valid for the Outline specified by the Entity ID.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The specified Destination is not a valid for the Outline specified by the Entity ID."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-no-outline-or-row" : {
+      "comment" : "Error text: Unable to find the Outline or Row specified by the Entity ID.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to find the Outline or Row specified by the Entity ID."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-no-tags-selected" : {
+      "comment" : "Error text: No Tags are currently selected.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Tags are currently selected."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-outline-not-found" : {
+      "comment" : "Error text: The requested Outline was not found.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The requested Outline was not found."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-outline-not-in-view" : {
+      "comment" : "Error text: There isn't an Outline currently being viewed.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There isn't an Outline currently being viewed."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-unexpected" : {
+      "comment" : "An unexpected error occurred. Please try again.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An unexpected error occurred. Please try again."
           }
         }
       }
@@ -3044,9 +3175,6 @@
     "Move Rows in or between Outlines." : {
 
     },
-    "No Tags are currently selected." : {
-
-    },
     "Note" : {
 
     },
@@ -3242,18 +3370,6 @@
     "Tags" : {
       "comment" : "Font Label: Tags"
     },
-    "The requested Outline was not found." : {
-
-    },
-    "The specified Account isn't available to be used." : {
-
-    },
-    "The specified Destination is not a valid for the Outline specified by the Entity ID." : {
-
-    },
-    "There isn't an Outline currently being viewed." : {
-
-    },
     "Title" : {
       "comment" : "Font Label: Title\nLabel: Title"
     },
@@ -3261,9 +3377,6 @@
 
     },
     "Topics" : {
-
-    },
-    "Unable to find the Outline or Row specified by the Entity ID." : {
 
     },
     "Uncomplete" : {
@@ -3286,9 +3399,6 @@
     },
     "URL" : {
       "comment" : "Label: URL"
-    },
-    "What is the %@ to add?" : {
-
     },
     "Zavala Deep Links" : {
 
