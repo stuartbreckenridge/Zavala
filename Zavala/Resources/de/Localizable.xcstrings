@@ -1,0 +1,6928 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "accessibility.text.complete" : {
+      "comment" : "Accessibility Label: Complete",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Complete"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Complete"
+          }
+        }
+      }
+    },
+    "button.text.actual-size" : {
+      "comment" : "View Action: Actual Size",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Actual Size"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actual Size"
+          }
+        }
+      }
+    },
+    "button.text.add" : {
+      "comment" : "Outline Action: Add",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        }
+      }
+    },
+    "button.text.add-note" : {
+      "comment" : "Outline Action: Add Note",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Note"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Note"
+          }
+        }
+      }
+    },
+    "button.text.add-note-level" : {
+      "comment" : "Action: Add Note Level",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Note Level"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Note Level"
+          }
+        }
+      }
+    },
+    "button.text.add-numbering-level" : {
+      "comment" : "Action: Add Numbering Level",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Numbering Level"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Numbering Level"
+          }
+        }
+      }
+    },
+    "button.text.add-row" : {
+      "comment" : "Outline Action: Add Row",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Row"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row"
+          }
+        }
+      }
+    },
+    "button.text.add-row-above" : {
+      "comment" : "Outline Action: Add Row Above",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Row Above"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row Above"
+          }
+        }
+      }
+    },
+    "button.text.add-row-after" : {
+      "comment" : "Outline Action: Add Row After",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Row After"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row After"
+          }
+        }
+      }
+    },
+    "button.text.add-row-below" : {
+      "comment" : "Outline Action: Add Row Below",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Row Below"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row Below"
+          }
+        }
+      }
+    },
+    "button.text.add-row-inside" : {
+      "comment" : "Outline Action: Add Row Inside",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Row Inside"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row Inside"
+          }
+        }
+      }
+    },
+    "button.text.add-row-outside" : {
+      "comment" : "Outline Action: Add Row Outside",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Row Outside"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Row Outside"
+          }
+        }
+      }
+    },
+    "button.text.add-tag" : {
+      "comment" : "Outline Action: Add Tag",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Tag"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Tag"
+          }
+        }
+      }
+    },
+    "button.text.add-topic-level" : {
+      "comment" : "Outline Action: Add Topic Level",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Topic Level"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Topic Level"
+          }
+        }
+      }
+    },
+    "button.text.always-delete-without-asking" : {
+      "comment" : "Delete Action: Always Delete Without Asking",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Always Delete Without Asking"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always Delete Without Asking"
+          }
+        }
+      }
+    },
+    "button.text.ascending" : {
+      "comment" : "Sort Action: Ascending",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ascending"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ascending"
+          }
+        }
+      }
+    },
+    "button.text.automatic-color-palette" : {
+      "comment" : "Set App Color Palette Action: Automatic",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Automatic"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatic"
+          }
+        }
+      }
+    },
+    "button.text.back" : {
+      "comment" : "Navigation Action: Back",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        }
+      }
+    },
+    "button.text.cancel" : {
+      "comment" : "Action: Cancel",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "button.text.change-link-titles-automatically" : {
+      "comment" : "Set Default Action: Change Link Titles Automatically",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Change Link Titles Automatically"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Link Titles Automatically"
+          }
+        }
+      }
+    },
+    "button.text.check-spelling-while-typing" : {
+      "comment" : "Set Default Action: Check Spelling While Typing",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check Spelling While Typing"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check Spelling While Typing"
+          }
+        }
+      }
+    },
+    "button.text.collapse" : {
+      "comment" : "Outline Action: Collapse",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Collapse"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse"
+          }
+        }
+      }
+    },
+    "button.text.collapse-all" : {
+      "comment" : "Outline Action: Collapse All",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Collapse"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse"
+          }
+        }
+      }
+    },
+    "button.text.collapse-all-in-outline" : {
+      "comment" : "Outline Action: Collapse All in Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Collapse All in Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse All in Outline"
+          }
+        }
+      }
+    },
+    "button.text.collapse-all-in-row" : {
+      "comment" : "Outline Action: Collapse All in Row",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Collapse All in Row"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse All in Row"
+          }
+        }
+      }
+    },
+    "button.text.copy" : {
+      "comment" : "Action: Copy",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
+        }
+      }
+    },
+    "button.text.copy-document-link" : {
+      "comment" : "Document Action: Copy Document Link",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy Document Link"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Document Link"
+          }
+        }
+      }
+    },
+    "button.text.copy-document-links" : {
+      "comment" : "Document Action: Copy Document Links",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy Document Links"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Document Links"
+          }
+        }
+      }
+    },
+    "button.text.copy-row-link" : {
+      "comment" : "Document Action: Copy Row Link",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy Row Link"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Row Link"
+          }
+        }
+      }
+    },
+    "button.text.correct-spelling-automatically" : {
+      "comment" : "Default Action: Correct Spelling Automatically",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Correct Spelling Automatically"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correct Spelling Automatically"
+          }
+        }
+      }
+    },
+    "button.text.create-links-automatically" : {
+      "comment" : "Set Default Action: Create Links Automatically",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create Links Automatically"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create Links Automatically"
+          }
+        }
+      }
+    },
+    "button.text.cut" : {
+      "comment" : "Action: Cut",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cut"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cut"
+          }
+        }
+      }
+    },
+    "button.text.delete" : {
+      "comment" : "Action: Delete",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "button.text.delete-note" : {
+      "comment" : "Action: Delete Note",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Note"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Note"
+          }
+        }
+      }
+    },
+    "button.text.delete-once" : {
+      "comment" : "Action: Delete Once",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Once"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Once"
+          }
+        }
+      }
+    },
+    "button.text.delete-outline" : {
+      "comment" : "Action: Delete Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Outline"
+          }
+        }
+      }
+    },
+    "button.text.delete-outline-message" : {
+      "comment" : "Alert Message: The outline will be deleted and unrecoverable.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The outline will be deleted and unrecoverable."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The outline will be deleted and unrecoverable."
+          }
+        }
+      }
+    },
+    "button.text.delete-outlines-message" : {
+      "comment" : "Alert Message: The outlines will be deleted and unrecoverable.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The outlines will be deleted and unrecoverable."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The outlines will be deleted and unrecoverable."
+          }
+        }
+      }
+    },
+    "button.text.delete-row" : {
+      "comment" : "Action: Delete Row",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Row"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Row"
+          }
+        }
+      }
+    },
+    "button.text.delete-rows" : {
+      "comment" : "Action: Delete Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Rows"
+          }
+        }
+      }
+    },
+    "button.text.delete-tag-message." : {
+      "comment" : "Alert Message: Any child Tag associated with this Tag will also be deleted. No Outlines associated with this Tag will be deleted.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Any child Tag associated with this Tag will also be deleted. No Outlines associated with this Tag will be deleted."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Any child Tag associated with this Tag will also be deleted. No Outlines associated with this Tag will be deleted."
+          }
+        }
+      }
+    },
+    "button.text.delete-tags-message." : {
+      "comment" : "Alert Message: Any child Tag associated with these Tags will also be deleted. No Outlines associated with these Tags will be deleted.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Any child Tag associated with these Tags will also be deleted. No Outlines associated with these Tags will be deleted."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Any child Tag associated with these Tags will also be deleted. No Outlines associated with these Tags will be deleted."
+          }
+        }
+      }
+    },
+    "button.text.descending" : {
+      "comment" : "Action: Descending",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Descending"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descending"
+          }
+        }
+      }
+    },
+    "button.text.disable-animations" : {
+      "comment" : "Action: Disable Animations",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Disable Animations"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Animations"
+          }
+        }
+      }
+    },
+    "button.text.duplicate" : {
+      "comment" : "Action: Duplicate",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Duplicate"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplicate"
+          }
+        }
+      }
+    },
+    "button.text.duplicate-row" : {
+      "comment" : "Action: Duplicate Row",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Duplicate Row"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplicate Row"
+          }
+        }
+      }
+    },
+    "button.text.duplicate-rows" : {
+      "comment" : "Action: Duplicate Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Duplicate Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplicate Rows"
+          }
+        }
+      }
+    },
+    "button.text.enable-icloud" : {
+      "comment" : "Label: Enable iCloud",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enable iCloud"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable iCloud"
+          }
+        }
+      }
+    },
+    "button.text.enable-on-my-device" : {
+      "comment" : "Label: Enable On My <Device>",
+      "localizations" : {
+        "de" : {
+          "variations" : {
+            "device" : {
+              "appletv" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Enable On My Apple TV"
+                }
+              },
+              "applevision" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Enable On My Apple Vision Pro"
+                }
+              },
+              "applewatch" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Enable On My Apple Watch"
+                }
+              },
+              "ipad" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Enable On My iPad"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Enable On My iPhone"
+                }
+              },
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Enable On My iPod"
+                }
+              },
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Enable On My Mac"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Enable On My Device"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "device" : {
+              "appletv" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My Apple TV"
+                }
+              },
+              "applevision" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My Apple Vision Pro"
+                }
+              },
+              "applewatch" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My Apple Watch"
+                }
+              },
+              "ipad" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My iPad"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My iPhone"
+                }
+              },
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My iPod"
+                }
+              },
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My Mac"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Enable On My Device"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "button.text.expand" : {
+      "comment" : "Action: Expand",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expand"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expand"
+          }
+        }
+      }
+    },
+    "button.text.expand-all" : {
+      "comment" : "Action: Expand All",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expand All"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expand All"
+          }
+        }
+      }
+    },
+    "button.text.expand-all-in-outline" : {
+      "comment" : "Action: Expand All in Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expand All in Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expand All in Outline"
+          }
+        }
+      }
+    },
+    "button.text.expand-all-in-row" : {
+      "comment" : "Action: Expand All in Row",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expand All in Row"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expand All in Row"
+          }
+        }
+      }
+    },
+    "button.text.export" : {
+      "comment" : "Action: Export",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        }
+      }
+    },
+    "button.text.export-markdown-doc-with-ellipsis" : {
+      "comment" : "Action: Export Markdown Doc…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export Markdown Doc…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Markdown Doc…"
+          }
+        }
+      }
+    },
+    "button.text.export-markdown-list-with-ellipsis" : {
+      "comment" : "Action: Export Markdown List…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export Markdown List…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Markdown List…"
+          }
+        }
+      }
+    },
+    "button.text.export-opml-ellipsis" : {
+      "comment" : "Action: Export OPML…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export OPML…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export OPML…"
+          }
+        }
+      }
+    },
+    "button.text.export-pdf-doc-with-ellipsis" : {
+      "comment" : "Action: Export PDF Doc…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export PDF Doc…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export PDF Doc…"
+          }
+        }
+      }
+    },
+    "button.text.export-pdf-list-with-ellipsis" : {
+      "comment" : "Action: Export PDF List…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export PDF List…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export PDF List…"
+          }
+        }
+      }
+    },
+    "button.text.filter" : {
+      "comment" : "Action: Filter",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filter"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        }
+      }
+    },
+    "button.text.filter-notes" : {
+      "comment" : "Action: Filter Notes",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filter Notes"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter Notes"
+          }
+        }
+      }
+    },
+    "button.text.find" : {
+      "comment" : "Action: Find",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find"
+          }
+        }
+      }
+    },
+    "button.text.find-next" : {
+      "comment" : "Action: Find Next",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find Next"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find Next"
+          }
+        }
+      }
+    },
+    "button.text.find-previous" : {
+      "comment" : "Action: Find Previous",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find Previous"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find Previous"
+          }
+        }
+      }
+    },
+    "button.text.find-with-ellipsis" : {
+      "comment" : "Action: Find…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find…"
+          }
+        }
+      }
+    },
+    "button.text.fix-it" : {
+      "comment" : "Action: Fix It",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fix It"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fix It"
+          }
+        }
+      }
+    },
+    "button.text.focus-in" : {
+      "comment" : "Action: Focus In",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Focus In"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus In"
+          }
+        }
+      }
+    },
+    "button.text.focus-out" : {
+      "comment" : "Action: Focus Out",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Focus Out"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus Out"
+          }
+        }
+      }
+    },
+    "button.text.forward" : {
+      "comment" : "Action: Forward",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Forward"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forward"
+          }
+        }
+      }
+    },
+    "button.text.full-width" : {
+      "comment" : "Action: Full Width",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full Width"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full Width"
+          }
+        }
+      }
+    },
+    "button.text.general" : {
+      "comment" : "Action: General",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "General"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        }
+      }
+    },
+    "button.text.get-info" : {
+      "comment" : "Action: Get Info",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Info"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Info"
+          }
+        }
+      }
+    },
+    "button.text.go-backward" : {
+      "comment" : "Action: Go Backward",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Go Backward"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go Backward"
+          }
+        }
+      }
+    },
+    "button.text.go-forward" : {
+      "comment" : "Action: Go Forward",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Go Forward"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go Forward"
+          }
+        }
+      }
+    },
+    "button.text.group-row" : {
+      "comment" : "Action: Group Row",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Row"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Group Row"
+          }
+        }
+      }
+    },
+    "button.text.group-rows" : {
+      "comment" : "Action: Group Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Group Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Group Rows"
+          }
+        }
+      }
+    },
+    "button.text.hide-keyboard" : {
+      "comment" : "Action: Hide Keyboard",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide Keyboard"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Keyboard"
+          }
+        }
+      }
+    },
+    "button.text.import-opml" : {
+      "comment" : "Action: Import OPML",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Import OPML"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import OPML"
+          }
+        }
+      }
+    },
+    "button.text.import-opml-with-ellipsis" : {
+      "comment" : "Action: Import OPML…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Import OPML…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import OPML…"
+          }
+        }
+      }
+    },
+    "button.text.insert-image" : {
+      "comment" : "Action: Insert Image",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insert Image"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insert Image"
+          }
+        }
+      }
+    },
+    "button.text.insert-image-with-ellipsis" : {
+      "comment" : "Label: Insert Image…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insert Image…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insert Image…"
+          }
+        }
+      }
+    },
+    "button.text.italic" : {
+      "comment" : "Set Font Action: Italic",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Italic"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Italic"
+          }
+        }
+      }
+    },
+    "button.text.jump-to-note" : {
+      "comment" : "Action: Jump to Note",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Jump to Note"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jump to Note"
+          }
+        }
+      }
+    },
+    "button.text.jump-to-topic" : {
+      "comment" : "Action: Jump to Topic",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Jump to Topic"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jump to Topic"
+          }
+        }
+      }
+    },
+    "button.text.large" : {
+      "comment" : "Action: Large",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Large"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Large"
+          }
+        }
+      }
+    },
+    "button.text.light" : {
+      "comment" : "Set App Appearance Action: Light",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Light"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
+          }
+        }
+      }
+    },
+    "button.text.medium" : {
+      "comment" : "Set Appearance Action: Medium",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Medium"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medium"
+          }
+        }
+      }
+    },
+    "button.text.mint" : {
+      "comment" : "Set Font Color Action: Mint",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mint"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mint"
+          }
+        }
+      }
+    },
+    "button.text.move-down" : {
+      "comment" : "Action: Move Down",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Move Down"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Down"
+          }
+        }
+      }
+    },
+    "button.text.move-left" : {
+      "comment" : "Action: Move Left",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Move Left"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Left"
+          }
+        }
+      }
+    },
+    "button.text.move-right" : {
+      "comment" : "Action: Move Right",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Move Right"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Right"
+          }
+        }
+      }
+    },
+    "button.text.move-up" : {
+      "comment" : "Action: Move Up",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Move Up"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Up"
+          }
+        }
+      }
+    },
+    "button.text.new-outline" : {
+      "comment" : "Action: New Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Outline"
+          }
+        }
+      }
+    },
+    "button.text.next-result" : {
+      "comment" : "Action: Next Result",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Next Result"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next Result"
+          }
+        }
+      }
+    },
+    "button.text.normal" : {
+      "comment" : "Label: Normal",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Normal"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal"
+          }
+        }
+      }
+    },
+    "button.text.open-quickly" : {
+      "comment" : "Action: Open Quickly",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Open Quickly"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Quickly"
+          }
+        }
+      }
+    },
+    "button.text.open-quickly-with-ellipsis" : {
+      "comment" : "Action: Open Quickly…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Open Quickly…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Quickly…"
+          }
+        }
+      }
+    },
+    "button.text.orange" : {
+      "comment" : "Set Font Color Action: Orange",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Orange"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange"
+          }
+        }
+      }
+    },
+    "button.text.paste" : {
+      "comment" : "Action: Paste",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Paste"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste"
+          }
+        }
+      }
+    },
+    "button.text.pink" : {
+      "comment" : "Set Font Color Action: Pink",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pink"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pink"
+          }
+        }
+      }
+    },
+    "button.text.previous-result" : {
+      "comment" : "Action: Previous Result",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Previous Result"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous Result"
+          }
+        }
+      }
+    },
+    "button.text.print" : {
+      "comment" : "Action: Print",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Print"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print"
+          }
+        }
+      }
+    },
+    "button.text.print-doc" : {
+      "comment" : "Action: Print Doc",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Print Doc"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print Doc"
+          }
+        }
+      }
+    },
+    "button.text.print-doc-with-ellipsis" : {
+      "comment" : "Action: Print Doc…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Print Doc…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print Doc…"
+          }
+        }
+      }
+    },
+    "button.text.print-list" : {
+      "comment" : "Action: Print List",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Print List"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print List"
+          }
+        }
+      }
+    },
+    "button.text.print-list-with-ellipsis" : {
+      "comment" : "Label: Print List…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Print List..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print List..."
+          }
+        }
+      }
+    },
+    "button.text.provide-feedback" : {
+      "comment" : "Action: Provide Feedback",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Provide Feedback"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provide Feedback"
+          }
+        }
+      }
+    },
+    "button.text.purple" : {
+      "comment" : "Set Font Color Action: Purple",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Purple"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purple"
+          }
+        }
+      }
+    },
+    "button.text.red" : {
+      "comment" : "Set Font Color Action: Red",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Red"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red"
+          }
+        }
+      }
+    },
+    "button.text.redo" : {
+      "comment" : "Action: Redo",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Redo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redo"
+          }
+        }
+      }
+    },
+    "button.text.remove" : {
+      "comment" : "Action: Remove",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        }
+      }
+    },
+    "button.text.remove-tag" : {
+      "comment" : "Action: Remove Tag",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove Tag"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Tag"
+          }
+        }
+      }
+    },
+    "button.text.rename" : {
+      "comment" : "Action: Rename",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Rename"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rename"
+          }
+        }
+      }
+    },
+    "button.text.replace" : {
+      "comment" : "Action: Replace",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Replace"
+          }
+        }
+      }
+    },
+    "button.text.restore" : {
+      "comment" : "Action: Restore",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Restore"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore"
+          }
+        }
+      }
+    },
+    "button.text.save" : {
+      "comment" : "Action: Save",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "button.text.select" : {
+      "comment" : "Action: Select",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select"
+          }
+        }
+      }
+    },
+    "button.text.set-appearance-dark" : {
+      "comment" : "Set App Color Palette Action: Dark",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dark"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark"
+          }
+        }
+      }
+    },
+    "button.text.set-font-blue" : {
+      "comment" : "Set Font Color Action: Blue",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Blue"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blue"
+          }
+        }
+      }
+    },
+    "button.text.set-font-bold" : {
+      "comment" : "Set Font Weight Action: Bold",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bold"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bold"
+          }
+        }
+      }
+    },
+    "button.text.set-font-brown" : {
+      "comment" : "Set Font Color Action: Brown",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Brown"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brown"
+          }
+        }
+      }
+    },
+    "button.text.set-font-cyan" : {
+      "comment" : "Set Font Color Action: Cyan",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cyan"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cyan"
+          }
+        }
+      }
+    },
+    "button.text.set-font-green" : {
+      "comment" : "Set Font Color Action: Green",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Green"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Green"
+          }
+        }
+      }
+    },
+    "button.text.set-font-indigo" : {
+      "comment" : "Set Font Color Action: Indigo",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Indigo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indigo"
+          }
+        }
+      }
+    },
+    "button.text.share" : {
+      "comment" : "Action: Share",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Share"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share"
+          }
+        }
+      }
+    },
+    "button.text.share-with-ellipsis" : {
+      "comment" : "Label: Share…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Share…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share…"
+          }
+        }
+      }
+    },
+    "button.text.small" : {
+      "comment" : "Action: Small",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Small"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Small"
+          }
+        }
+      }
+    },
+    "button.text.sort-documents" : {
+      "comment" : "Action: Sort Documents",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sort Documents"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort Documents"
+          }
+        }
+      }
+    },
+    "button.text.sort-rows" : {
+      "comment" : "Action: Sort Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sort Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort Rows"
+          }
+        }
+      }
+    },
+    "button.text.split-row" : {
+      "comment" : "Action: Split Row",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Split Row"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Split Row"
+          }
+        }
+      }
+    },
+    "button.text.sync" : {
+      "comment" : "Label: Sync",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sync"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync"
+          }
+        }
+      }
+    },
+    "button.text.teal" : {
+      "comment" : "Set Font Color Appearance: Teal",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Teal"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teal"
+          }
+        }
+      }
+    },
+    "button.text.toggle-sidebar" : {
+      "comment" : "Action: Toggle Sidebar",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Toggle Sidebar"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Sidebar"
+          }
+        }
+      }
+    },
+    "button.text.turn-filter-off" : {
+      "comment" : "Action: Turn Filter Off",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Turn Filter Off"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn Filter Off"
+          }
+        }
+      }
+    },
+    "button.text.turn-filter-on" : {
+      "comment" : "Label: Turn Filter On",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Turn Filter On"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn Filter On"
+          }
+        }
+      }
+    },
+    "button.text.uncomplete" : {
+      "comment" : "Action: Uncomplete",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Uncomplete"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uncomplete"
+          }
+        }
+      }
+    },
+    "button.text.undo" : {
+      "comment" : "Action: Undo",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Undo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo"
+          }
+        }
+      }
+    },
+    "button.text.use-main-window-as-default" : {
+      "comment" : "Action: Use Main Window as Default",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use Main Window as Default"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Main Window as Default"
+          }
+        }
+      }
+    },
+    "button.text.use-selection-for-find" : {
+      "comment" : "Action: Use Selection For Find",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use Selection For Find"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Selection For Find"
+          }
+        }
+      }
+    },
+    "button.text.wide" : {
+      "comment" : "Label: Wide",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Wide"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wide"
+          }
+        }
+      }
+    },
+    "button.text.yellow" : {
+      "comment" : "Set Font Color Action: Yellow",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Yellow"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yellow"
+          }
+        }
+      }
+    },
+    "button.text.zoom-in" : {
+      "comment" : "Action: Zoom In",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Zoom In"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoom In"
+          }
+        }
+      }
+    },
+    "button.text.zoom-out" : {
+      "comment" : "Action: Zoom Out",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Zoom Out"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoom Out"
+          }
+        }
+      }
+    },
+    "iCloud" : {
+      "shouldTranslate" : false,
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "iCloud"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud"
+          }
+        }
+      }
+    },
+    "intent.description.add-outline" : {
+      "comment" : "Intent Description: Adds an Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adds an Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adds an Outline"
+          }
+        }
+      }
+    },
+    "intent.description.add-outline-tag" : {
+      "comment" : "Intent description: Add a Tag to the given Outline.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add a Tag to the given Outline."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a Tag to the given Outline."
+          }
+        }
+      }
+    },
+    "intent.description.edit-outline" : {
+      "comment" : "Intent description: Update the details of an Outline.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update the details of an Outline."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update the details of an Outline."
+          }
+        }
+      }
+    },
+    "intent.description.get-current-outline" : {
+      "comment" : "Get the currently viewed outline from the foremost window for Zavala.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get the currently viewed outline from the foremost window for Zavala."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get the currently viewed outline from the foremost window for Zavala."
+          }
+        }
+      }
+    },
+    "intent.description.get-current-tags" : {
+      "comment" : "Gets the name of the currently selected Tags if there are any.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Gets the name of the currently selected Tags if there are any."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gets the name of the currently selected Tags if there are any."
+          }
+        }
+      }
+    },
+    "intent.description.get-outlines" : {
+      "comment" : "Intent title: Get Outlines based on search criteria.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Outlines based on search criteria."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Outlines based on search criteria."
+          }
+        }
+      }
+    },
+    "intent.description.remove-outline" : {
+      "comment" : "Intent title: Deletes an Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Deletes an Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deletes an Outline"
+          }
+        }
+      }
+    },
+    "intent.description.remove-outline-tag" : {
+      "comment" : "Intent title: Removes a Tag from the given Outline.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Removes a Tag from the given Outline."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Removes a Tag from the given Outline."
+          }
+        }
+      }
+    },
+    "intent.description.show-outline" : {
+      "comment" : "Shows the given outline in the foremost window of Zavala.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shows the given outline in the foremost window of Zavala."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shows the given outline in the foremost window of Zavala."
+          }
+        }
+      }
+    },
+    "intent.descrption.add-rows-to-outline" : {
+      "comment" : "Add Rows to Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Rows to Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Rows to Outline"
+          }
+        }
+      }
+    },
+    "intent.descrption.copy-rows-outlines" : {
+      "comment" : "Copy Rows in or between Outlines",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy Rows in or between Outlines"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Rows in or between Outlines"
+          }
+        }
+      }
+    },
+    "intent.descrption.delete-rows" : {
+      "comment" : "Delete the specified Rows.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete the specified Rows."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete the specified Rows."
+          }
+        }
+      }
+    },
+    "intent.descrption.get-images-for-outline" : {
+      "comment" : "Gets all the Images associated with the given Outline. Useful for integrating with Outlines exported as Markdown.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Gets all the Images associated with the given Outline. Useful for integrating with Outlines exported as Markdown."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gets all the Images associated with the given Outline. Useful for integrating with Outlines exported as Markdown."
+          }
+        }
+      }
+    },
+    "intent.descrption.get-rows-outlines" : {
+      "comment" : "Get Rows from an Outline.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Rows from an Outline."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Rows from an Outline."
+          }
+        }
+      }
+    },
+    "intent.descrption.import-outline" : {
+      "comment" : "Intent description: Import an Outline.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Import an Outline."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import an Outline."
+          }
+        }
+      }
+    },
+    "intent.descrption.move-rows-outlines" : {
+      "comment" : "Move Rows in or between Outlines",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Move Rows in or between Outlines"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Rows in or between Outlines"
+          }
+        }
+      }
+    },
+    "intent.descrption.update-row-details" : {
+      "comment" : "Update the details of a Row",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update the details of a Row"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update the details of a Row"
+          }
+        }
+      }
+    },
+    "intent.parameter.account-type" : {
+      "comment" : "Intent Parameter: Account Type",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Account Type"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account Type"
+          }
+        }
+      }
+    },
+    "intent.parameter.account-type-request" : {
+      "comment" : "Intent request dialog: Which Account do you want to add this Outline to?",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Which Account do you want to add this Outline to?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Which Account do you want to add this Outline to?"
+          }
+        }
+      }
+    },
+    "intent.parameter.complete" : {
+      "comment" : "Complete",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Complete"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Complete"
+          }
+        }
+      }
+    },
+    "intent.parameter.completion-state" : {
+      "comment" : "Completion State",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Completion State"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completion State"
+          }
+        }
+      }
+    },
+    "intent.parameter.created-end-date" : {
+      "comment" : "Intent Parameter: Created End Date",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Created End Date"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Created End Date"
+          }
+        }
+      }
+    },
+    "intent.parameter.created-start-date" : {
+      "comment" : "Intent Parameter: Created Start Date",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Created Start Date"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Created Start Date"
+          }
+        }
+      }
+    },
+    "intent.parameter.destination" : {
+      "comment" : "Destination",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Destination"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Destination"
+          }
+        }
+      }
+    },
+    "intent.parameter.detail" : {
+      "comment" : "Detail\nIntent parameter: Detail",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Detail"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detail"
+          }
+        }
+      }
+    },
+    "intent.parameter.end-depth" : {
+      "comment" : "End Depth",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "End Depth"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End Depth"
+          }
+        }
+      }
+    },
+    "intent.parameter.entity-id" : {
+      "comment" : "Entity ID",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Entity ID"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entity ID"
+          }
+        }
+      }
+    },
+    "intent.parameter.excluded-rows" : {
+      "comment" : "Excluded Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Excluded Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Excluded Rows"
+          }
+        }
+      }
+    },
+    "intent.parameter.expanded" : {
+      "comment" : "Expanded",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expanded"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expanded"
+          }
+        }
+      }
+    },
+    "intent.parameter.expanded-state" : {
+      "comment" : "Expanded State",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expanded State"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expanded State"
+          }
+        }
+      }
+    },
+    "intent.parameter.export-link-type" : {
+      "comment" : "Intent parameter: Export Link Type",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export Link Type"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Link Type"
+          }
+        }
+      }
+    },
+    "intent.parameter.export-type" : {
+      "comment" : "Intent parameter: Export Type",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export Type"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Type"
+          }
+        }
+      }
+    },
+    "intent.parameter.export-type-markdown-doc" : {
+      "comment" : "Export type: Markdown Doc",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Markdown Doc"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markdown Doc"
+          }
+        }
+      }
+    },
+    "intent.parameter.export-type-markdown-list" : {
+      "comment" : "Export type: Markdown List",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Markdown List"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markdown List"
+          }
+        }
+      }
+    },
+    "intent.parameter.export-type-pdf-doc" : {
+      "comment" : "Export type: PDF Doc",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PDF Doc"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PDF Doc"
+          }
+        }
+      }
+    },
+    "intent.parameter.export-type-pdf-list" : {
+      "comment" : "Export type: PDF List",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PDF List"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PDF List"
+          }
+        }
+      }
+    },
+    "intent.parameter.import-type" : {
+      "comment" : "Intent Parameter: Import Type",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Import Type"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import Type"
+          }
+        }
+      }
+    },
+    "intent.parameter.input-file" : {
+      "comment" : "Intent Parameter: Input File",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Input File"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Input File"
+          }
+        }
+      }
+    },
+    "intent.parameter.input-images" : {
+      "comment" : "Intent Parameter: Input Images",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Input Images"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Input Images"
+          }
+        }
+      }
+    },
+    "intent.parameter.note" : {
+      "comment" : "Note",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note"
+          }
+        }
+      }
+    },
+    "intent.parameter.outline" : {
+      "comment" : "Intent parameter: Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outline"
+          }
+        }
+      }
+    },
+    "intent.parameter.outline-title-request" : {
+      "comment" : "Intent request dialog: What is the title of the new Outline?",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "What is the title of the new Outline?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is the title of the new Outline?"
+          }
+        }
+      }
+    },
+    "intent.parameter.owner-email" : {
+      "comment" : "Intent parameter: Owner Email",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Owner Email"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner Email"
+          }
+        }
+      }
+    },
+    "intent.parameter.owner-name" : {
+      "comment" : "Intent parameter: Owner Name",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Owner Name"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner Name"
+          }
+        }
+      }
+    },
+    "intent.parameter.owner-url" : {
+      "comment" : "Intent parameter: Owner URL",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Owner URL"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner URL"
+          }
+        }
+      }
+    },
+    "intent.parameter.regular-expression" : {
+      "comment" : "Regular Expression",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Regular Expression"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regular Expression"
+          }
+        }
+      }
+    },
+    "intent.parameter.relative-file-links" : {
+      "comment" : "Export Link Type: Relative File Links",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Relative File Links"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relative File Links"
+          }
+        }
+      }
+    },
+    "intent.parameter.rows" : {
+      "comment" : "Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rows"
+          }
+        }
+      }
+    },
+    "intent.parameter.search" : {
+      "comment" : "Intent Parameter: Search\nSearch",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "intent.parameter.start-depth" : {
+      "comment" : "Start Depth",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Start Depth"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Depth"
+          }
+        }
+      }
+    },
+    "intent.parameter.tag" : {
+      "comment" : "Intent parameter: Tag",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tag"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag"
+          }
+        }
+      }
+    },
+    "intent.parameter.tag-name" : {
+      "comment" : "Intent parameter: Tag Name\nIntent paramter: Tag Name",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tag Name"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag Name"
+          }
+        }
+      }
+    },
+    "intent.parameter.tag-names" : {
+      "comment" : "Intent Parameter: Tag Names",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tag Names"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag Names"
+          }
+        }
+      }
+    },
+    "intent.parameter.title" : {
+      "comment" : "Intent Parameter: Title",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Title"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Title"
+          }
+        }
+      }
+    },
+    "intent.parameter.topic" : {
+      "comment" : "Topic",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Topic"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Topic"
+          }
+        }
+      }
+    },
+    "intent.parameter.topics" : {
+      "comment" : "Topics",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Topics"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Topics"
+          }
+        }
+      }
+    },
+    "intent.parameter.type-opml" : {
+      "comment" : "Export type: OPML\nImport type: OPML",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OPML"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OPML"
+          }
+        }
+      }
+    },
+    "intent.parameter.updated-end-date" : {
+      "comment" : "Intent Parameter: Updated End Date",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Updated End Date"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updated End Date"
+          }
+        }
+      }
+    },
+    "intent.parameter.updated-start-date" : {
+      "comment" : "Intent Parameter: Updated Start Date",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Updated Start Date"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updated Start Date"
+          }
+        }
+      }
+    },
+    "intent.parameter.zavala-deep-links" : {
+      "comment" : "Export Link Type: Zavala Deep Links",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Zavala Deep Links"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zavala Deep Links"
+          }
+        }
+      }
+    },
+    "intent.predicition.import-the-%@-%@-into-%@" : {
+      "comment" : "Import the <ImportType> <InputFile> into <AccountType>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Import the %1$@ %2$@ into %3$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import the %1$@ %2$@ into %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.add-%@-to-%@-at-%@" : {
+      "comment" : "Add <topics> to <entityID> at <destination>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add %1$@ to %2$@ at %3$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add %1$@ to %2$@ at %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.add-outline-%@-to-%@" : {
+      "comment" : "Intent Prediction: Add Outline titled <title> to <accountType>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Outline titled %1$@ to %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Outline titled %1$@ to %2$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.add-tag-%@-to-%@" : {
+      "comment" : "Intent prediction: Add <tagname> to <outline>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add %1$@ to %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add %1$@ to %2$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.copy-%@-to-%@-at-%@" : {
+      "comment" : "Copy <rows> to <entityID> at <destination>)",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy %1$@ to %2$@ at %3$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy %1$@ to %2$@ at %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.export-the-%@-as-%@-using-%@" : {
+      "comment" : "Import prediction: Export the <Outline> as <ExportType> using <ExportLinkType>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export the %1$@ as %2$@ using %3$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export the %1$@ as %2$@ using %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.get-images-for-%@" : {
+      "comment" : "Intent Prediction: Get Images for <Outline>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Images for %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Images for %@"
+          }
+        }
+      }
+    },
+    "intent.prediction.get-rows-matching-%@-starting-at-%@" : {
+      "comment" : "Get Rows matching <search> starting at <entityID>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Rows matching %1$@ starting at %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Rows matching %1$@ starting at %2$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.move-%@-to-%@-at-%@" : {
+      "comment" : "Move <rows> to <entityID> at <destination>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Move %1$@ to %2$@ at %3$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move %1$@ to %2$@ at %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.remove-%@" : {
+      "comment" : "Intent prediction: Remove <Outline>\nRemove <rows>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove %@"
+          }
+        }
+      }
+    },
+    "intent.prediction.remove-%@-from-%@" : {
+      "comment" : "Intent prediction: Remove <tag name> from <outline>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove %1$@ from %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove %1$@ from %2$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-%@-of-%@" : {
+      "comment" : "Set <detail> of <rows>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set %1$@ of %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-%@-of-%@-to-%@" : {
+      "comment" : "Set <detail> of <rows> to <complete>\nSet <detail> of <rows> to <expanded>\nSet <detail> of <rows> to <note>\nSet <detail> of <rows> to <topic>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-detail-%@-outline-%@" : {
+      "comment" : "Intent prediction: Set <detail> of <outline>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set %1$@ of %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-detail-%@-outline-%@-ownerEmail-%@" : {
+      "comment" : "Intent prediction: Set <detail> of <outline> to <owner Email>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-detail-%@-outline-%@-ownerName-%@" : {
+      "comment" : "Intent prediction: Set <detail> of <outline> to <owner name>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-detail-%@-outline-%@-ownerURL-%@" : {
+      "comment" : "Intent prediction: Set <detail> of <outline> to <owner URL>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.set-detail-%@-outline-%@-title-%@" : {
+      "comment" : "Intent prediction: Set <detail> of <outline> to <title>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set %1$@ of %2$@ to %3$@"
+          }
+        }
+      }
+    },
+    "intent.prediction.show-%@" : {
+      "comment" : "Show <outline>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show %@"
+          }
+        }
+      }
+    },
+    "intent.prompt.tag-name-to-add-%@" : {
+      "comment" : "What is the <tagname> to add?",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "What is the %@ to add?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is the %@ to add?"
+          }
+        }
+      }
+    },
+    "intent.summary-add-tag-${tagName}-to-outline-${outline}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add tag ${tagName} to ${outline}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add tag ${tagName} to ${outline}"
+          }
+        }
+      }
+    },
+    "intent.summary-show-${outline}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show ${outline}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show ${outline}"
+          }
+        }
+      }
+    },
+    "intent.summary.add-${topics}-to-${entityID}-at-${destination}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add ${topics} to ${entityID} at ${destination}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add ${topics} to ${entityID} at ${destination}"
+          }
+        }
+      }
+    },
+    "intent.summary.add-outline-${title}-to-${accountType}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Outline ${title} to ${accountType}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Outline ${title} to ${accountType}"
+          }
+        }
+      }
+    },
+    "intent.summary.copy-${rows}-to-${entityID}-at-${destination}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy ${rows} to ${entityID} at ${destination}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy ${rows} to ${entityID} at ${destination}"
+          }
+        }
+      }
+    },
+    "intent.summary.export-the-${outline}-as-${exportType}-using-${exportLinkType}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export the ${outline} as ${exportType} using ${exportLinkType}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export the ${outline} as ${exportType} using ${exportLinkType}"
+          }
+        }
+      }
+    },
+    "intent.summary.get-current-outline" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Current Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Current Outline"
+          }
+        }
+      }
+    },
+    "intent.summary.get-current-tags" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Current Tags"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Current Tags"
+          }
+        }
+      }
+    },
+    "intent.summary.get-images-for-${outline}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get images for ${outline}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get images for ${outline}"
+          }
+        }
+      }
+    },
+    "intent.summary.get-outlines" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Outlines"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Outlines"
+          }
+        }
+      }
+    },
+    "intent.summary.get-rows-matching-${search}-starting-at-${entityID}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Rows matching ${search} start at ${entityID}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Rows matching ${search} start at ${entityID}"
+          }
+        }
+      }
+    },
+    "intent.summary.import-the-${importType}-${inputFile}-into-${accountType}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Import the ${importType} ${inputFile} into ${accountType}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import the ${importType} ${inputFile} into ${accountType}"
+          }
+        }
+      }
+    },
+    "intent.summary.move-${rows}-to-${entityID}-at-${destination}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Move ${rows} to ${entityID} at ${destination}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move ${rows} to ${entityID} at ${destination}"
+          }
+        }
+      }
+    },
+    "intent.summary.remove-${outline}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove ${outline}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove ${outline}"
+          }
+        }
+      }
+    },
+    "intent.summary.remove-${rows}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove ${rows}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove ${rows}"
+          }
+        }
+      }
+    },
+    "intent.summary.remove-${tagName}-from-${outline}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove ${tagName} from ${outline}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove ${tagName} from ${outline}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${outline}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set ${detail} of ${outline}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${outline}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${outline}-to-${ownerEmail}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set ${detail} of ${outline} to ${ownerEmail}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${outline} to ${ownerEmail}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${outline}-to-${ownerName}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set ${detail} of ${outline} to ${ownerName}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${outline} to ${ownerName}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${outline}-to-${ownerURL}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set ${detail} of ${outline} to ${ownerURL}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${outline} to ${ownerURL}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${outline}-to-${title}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set ${detail} of ${outline} to ${title}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${outline} to ${title}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${rows}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set ${detail} of ${rows}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${rows}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${rows}-to-${complete}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set ${detail} of ${rows} to ${complete}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${rows} to ${complete}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${rows}-to-${expanded}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set ${detail} of ${rows} to ${expanded}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${rows} to ${expanded}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${rows}-to-${note}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set ${detail} of ${rows} to ${note}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${rows} to ${note}"
+          }
+        }
+      }
+    },
+    "intent.summary.set-${detail}-of-${rows}-to-${topic}" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set ${detail} of ${rows} to ${topic}"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set ${detail} of ${rows} to ${topic}"
+          }
+        }
+      }
+    },
+    "intent.title.add-outline" : {
+      "comment" : "Intent Title: Add Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Outline"
+          }
+        }
+      }
+    },
+    "intent.title.add-outline-tag" : {
+      "comment" : "Intent title: Add Outline Tag",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Outline Tag"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Outline Tag"
+          }
+        }
+      }
+    },
+    "intent.title.add-rows" : {
+      "comment" : "Add Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Rows"
+          }
+        }
+      }
+    },
+    "intent.title.copy-rows" : {
+      "comment" : "Copy Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Rows"
+          }
+        }
+      }
+    },
+    "intent.title.edit-outline" : {
+      "comment" : "Intent title: Edit Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Outline"
+          }
+        }
+      }
+    },
+    "intent.title.edit-rows" : {
+      "comment" : "Edit Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Rows"
+          }
+        }
+      }
+    },
+    "intent.title.export" : {
+      "comment" : "Intent title: Export",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        }
+      }
+    },
+    "intent.title.export-description" : {
+      "comment" : "Intent description: Export the outline in various formats.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export the outline in various formats."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export the outline in various formats."
+          }
+        }
+      }
+    },
+    "intent.title.get-current-outline" : {
+      "comment" : "Get Current Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Current Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Current Outline"
+          }
+        }
+      }
+    },
+    "intent.title.get-current-tags" : {
+      "comment" : "Get Current Tags",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Current Tags"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Current Tags"
+          }
+        }
+      }
+    },
+    "intent.title.get-images-for-outline" : {
+      "comment" : "Intent title: Get Images for Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Images for Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Images for Outline"
+          }
+        }
+      }
+    },
+    "intent.title.get-outlines" : {
+      "comment" : "Intent title: Get Outlines",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Outlines"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Outlines"
+          }
+        }
+      }
+    },
+    "intent.title.get-rows" : {
+      "comment" : "Get Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Rows"
+          }
+        }
+      }
+    },
+    "intent.title.import" : {
+      "comment" : "Intent title: Import",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Import"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import"
+          }
+        }
+      }
+    },
+    "intent.title.move-rows" : {
+      "comment" : "Move Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Move Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Rows"
+          }
+        }
+      }
+    },
+    "intent.title.remove-outline" : {
+      "comment" : "Intent title: Remove Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Outline"
+          }
+        }
+      }
+    },
+    "intent.title.remove-outline-tag" : {
+      "comment" : "Intent title: Remove Outline Tag",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove Outline Tag"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Outline Tag"
+          }
+        }
+      }
+    },
+    "intent.title.remove-rows" : {
+      "comment" : "Remove Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Rows"
+          }
+        }
+      }
+    },
+    "intent.title.show-outline" : {
+      "comment" : "Show Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Outline"
+          }
+        }
+      }
+    },
+    "label.text.about-zavala" : {
+      "comment" : "Label: About Zavala",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "About Zavala"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About Zavala"
+          }
+        }
+      }
+    },
+    "label.text.account-type" : {
+      "comment" : "Account Type",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Account Type"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account Type"
+          }
+        }
+      }
+    },
+    "label.text.accounts" : {
+      "comment" : "Label: Accounts",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Accounts"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accounts"
+          }
+        }
+      }
+    },
+    "label.text.acknowledgements" : {
+      "comment" : "Label: Acknowledgements",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Acknowledgements"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acknowledgements"
+          }
+        }
+      }
+    },
+    "label.text.app-developed-by" : {
+      "comment" : "Developed by [Maurice C. Parker](https://vincode.io)",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Developed by [Maurice C. Parker](https://vincode.io)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Developed by [Maurice C. Parker](https://vincode.io)"
+          }
+        }
+      }
+    },
+    "label.text.app-icon-credit" : {
+      "comment" : "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App icon by [Brad Ellis](https://hachyderm.io/@bradellis)"
+          }
+        }
+      }
+    },
+    "label.text.backlinks" : {
+      "comment" : "Label: Backlinks",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Backlinks"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backlinks"
+          }
+        }
+      }
+    },
+    "label.text.bug-tracker" : {
+      "comment" : "Label: Bug Tracker",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bug Tracker"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bug Tracker"
+          }
+        }
+      }
+    },
+    "label.text.close" : {
+      "comment" : "Close",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "label.text.collapsed" : {
+      "comment" : "Collapsed",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Collapsed"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapsed"
+          }
+        }
+      }
+    },
+    "label.text.color-palette" : {
+      "comment" : "Label: Color Palette",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Color Palette"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color Palette"
+          }
+        }
+      }
+    },
+    "label.text.community-discussion" : {
+      "comment" : "Label: Community Discussion",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Community Discussion"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Community Discussion"
+          }
+        }
+      }
+    },
+    "label.text.complete" : {
+      "comment" : "Complete\nLabel: Complete",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Complete"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Complete"
+          }
+        }
+      }
+    },
+    "label.text.copyright-%@" : {
+      "comment" : "Label: Copyright © Vincode, Inc. 2020-<Current Year>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copyright © Vincode, Inc. 2020-%@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © Vincode, Inc. 2020-%@"
+          }
+        }
+      }
+    },
+    "label.text.corrupted-outline" : {
+      "comment" : "Label: Corrupted Outline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Corrupted Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corrupted Outline"
+          }
+        }
+      }
+    },
+    "label.text.corrupted-outline-message" : {
+      "comment" : "Alert Message: This outline appears to be corrupted. Would you like to fix it?",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This outline appears to be corrupted. Would you like to fix it?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This outline appears to be corrupted. Would you like to fix it?"
+          }
+        }
+      }
+    },
+    "label.text.created" : {
+      "comment" : "Created\nLabel: Created",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Created"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Created"
+          }
+        }
+      }
+    },
+    "label.text.created-on-%@-at-%@" : {
+      "comment" : "Label: Created on <Date> at <Time>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Created on %1$@ at%2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Created on %1$@ at%2$@"
+          }
+        }
+      }
+    },
+    "label.text.delete-completed" : {
+      "comment" : "Label: Delete Completed Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Completed Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Completed Rows"
+          }
+        }
+      }
+    },
+    "label.text.delete-completed-rows" : {
+      "comment" : "Label: Delete Completed Rows",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Completed Rows"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Completed Rows"
+          }
+        }
+      }
+    },
+    "label.text.delete-completed-rows-message" : {
+      "comment" : "Alert Message: Are you sure you want to delete the completed rows?",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete the completed rows?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete the completed rows?"
+          }
+        }
+      }
+    },
+    "label.text.delete-multiple-tags-confirmation-message-%lld" : {
+      "comment" : "Alert Title: Are you sure you want to delete <Tag Count> tags?",
+      "localizations" : {
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Are you sure you want to delete %i tag?"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Are you sure you want to delete %i tags?"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Are you sure you want to delete %i tag?"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Are you sure you want to delete %i tags?"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "label.text.delete-outline-confirmation-message-%@" : {
+      "comment" : "Alert Title: Are you sure you want to delete the “Outline Title” outline?",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete the ”%@” outline?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete the ”%@” outline?"
+          }
+        }
+      }
+    },
+    "label.text.delete-outlines-confirmation-message-%lld" : {
+      "comment" : "Label: Are you sure you want to delete <Outline Count> outlines?",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete %lld outlines?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete %lld outlines?"
+          }
+        }
+      }
+    },
+    "label.text.delete-tag-confirmation-message-%@" : {
+      "comment" : "Alert Title: Are you sure you want to delete the “Tag Name” tag?",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete the ”%@” tag?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete the ”%@” tag?"
+          }
+        }
+      }
+    },
+    "label.text.directly-after" : {
+      "comment" : "Directly After",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Directly After"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Directly After"
+          }
+        }
+      }
+    },
+    "label.text.document-not-found" : {
+      "comment" : "Label: Document Not Found",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Document Not Found"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Document Not Found"
+          }
+        }
+      }
+    },
+    "label.text.document-not-found-message" : {
+      "comment" : "Alert Message: The requested document could not be found. It was most likely deleted and is no longer available.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The requested document could not be found. It was most likely deleted and is no longer available."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The requested document could not be found. It was most likely deleted and is no longer available."
+          }
+        }
+      }
+    },
+    "label.text.done" : {
+      "comment" : "Label: Done",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Done"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "label.text.edit-document-%@" : {
+      "comment" : "Prompt:  Edit document “<Document Title>”",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit Document ”%@’"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Document ”%@’"
+          }
+        }
+      }
+    },
+    "label.text.editor" : {
+      "comment" : "Label: Editor",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editor"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editor"
+          }
+        }
+      }
+    },
+    "label.text.email" : {
+      "comment" : "Label: Email",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Email"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        }
+      }
+    },
+    "label.text.entity-id" : {
+      "comment" : "Entity ID",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Entity ID"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entity ID"
+          }
+        }
+      }
+    },
+    "label.text.error" : {
+      "comment" : "Label: Error",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error"
+          }
+        }
+      }
+    },
+    "label.text.expanded" : {
+      "comment" : "Expanded",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expanded"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expanded"
+          }
+        }
+      }
+    },
+    "label.text.filter-completed" : {
+      "comment" : "Label: Filter Completed",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filter Completed"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter Completed"
+          }
+        }
+      }
+    },
+    "label.text.fonts" : {
+      "comment" : "Label: Fonts",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fonts"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fonts"
+          }
+        }
+      }
+    },
+    "label.text.format" : {
+      "comment" : "Label: Format",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Format"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Format"
+          }
+        }
+      }
+    },
+    "label.text.github-repository" : {
+      "comment" : "Label: GitHub Repository",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "GitHub Repository"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub Repository"
+          }
+        }
+      }
+    },
+    "label.text.help" : {
+      "comment" : "Label: Help",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Help"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        }
+      }
+    },
+    "label.text.history" : {
+      "comment" : "Label: History",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "History"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        }
+      }
+    },
+    "label.text.id" : {
+      "comment" : "ID",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ID"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ID"
+          }
+        }
+      }
+    },
+    "label.text.image" : {
+      "comment" : "Label: Image",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Image"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image"
+          }
+        }
+      }
+    },
+    "label.text.import-failed" : {
+      "comment" : "Error Message Title: Import Failed",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Import Failed"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import Failed"
+          }
+        }
+      }
+    },
+    "label.text.inside-at-end" : {
+      "comment" : "Inside at End",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inside at End"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inside at End"
+          }
+        }
+      }
+    },
+    "label.text.inside-at-start" : {
+      "comment" : "Inside at Start",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inside at Start"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inside at Start"
+          }
+        }
+      }
+    },
+    "label.text.intent-error-account-not available" : {
+      "comment" : "Error text: The specified Account isn't available to be used.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The specified Account isn't available to be used."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The specified Account isn't available to be used."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-invalid-destination-outline-entity-id" : {
+      "comment" : "Error text: The specified Destination is not a valid for the Outline specified by the Entity ID.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The specified Destination is not a valid for the Outline specified by the Entity ID."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The specified Destination is not a valid for the Outline specified by the Entity ID."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-no-outline-or-row" : {
+      "comment" : "Error text: Unable to find the Outline or Row specified by the Entity ID.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unable to find the Outline or Row specified by the Entity ID."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to find the Outline or Row specified by the Entity ID."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-no-tags-selected" : {
+      "comment" : "Error text: No Tags are currently selected.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Tags are currently selected."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Tags are currently selected."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-outline-not-found" : {
+      "comment" : "Error text: The requested Outline was not found.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The requested Outline was not found."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The requested Outline was not found."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-outline-not-in-view" : {
+      "comment" : "Error text: There isn't an Outline currently being viewed.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There isn't an Outline currently being viewed."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There isn't an Outline currently being viewed."
+          }
+        }
+      }
+    },
+    "label.text.intent-error-unexpected" : {
+      "comment" : "An unexpected error occurred. Please try again.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "An unexpected error occurred. Please try again."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An unexpected error occurred. Please try again."
+          }
+        }
+      }
+    },
+    "label.text.level" : {
+      "comment" : "Level",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Level"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Level"
+          }
+        }
+      }
+    },
+    "label.text.link" : {
+      "comment" : "Label: Link",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Link"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Link"
+          }
+        }
+      }
+    },
+    "label.text.link-with-ellipsis" : {
+      "comment" : "Label: Link…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Link..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Link..."
+          }
+        }
+      }
+    },
+    "label.text.manage-sharing-with-ellipsis" : {
+      "comment" : "Label: Manage Sharing…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Manage Sharing..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage Sharing..."
+          }
+        }
+      }
+    },
+    "label.text.max-width" : {
+      "comment" : "Label: Max Width",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Max Width"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max Width"
+          }
+        }
+      }
+    },
+    "label.text.more" : {
+      "comment" : "Label: More",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "More"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More"
+          }
+        }
+      }
+    },
+    "label.text.move" : {
+      "comment" : "Label: Move",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Move"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move"
+          }
+        }
+      }
+    },
+    "label.text.multiple-selections" : {
+      "comment" : "Label: Multiple Selections",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Multiple Selections"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Multiple Selections"
+          }
+        }
+      }
+    },
+    "label.text.name" : {
+      "comment" : "Label: Name",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "label.text.navigation" : {
+      "comment" : "Label: Navigation",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Navigation"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navigation"
+          }
+        }
+      }
+    },
+    "label.text.new-main-window" : {
+      "comment" : "Label: New Main Window",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New Main Window"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Main Window"
+          }
+        }
+      }
+    },
+    "label.text.no-selection" : {
+      "comment" : "Label: No Selection",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Selection"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Selection"
+          }
+        }
+      }
+    },
+    "label.text.no-title" : {
+      "comment" : "Label: (No Title)",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "(No Title)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(No Title)"
+          }
+        }
+      }
+    },
+    "label.text.none" : {
+      "comment" : "Label: None",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "None"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None"
+          }
+        }
+      }
+    },
+    "label.text.note" : {
+      "comment" : "Note",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note"
+          }
+        }
+      }
+    },
+    "label.text.note-level-%lld" : {
+      "comment" : "Label: Note Level <Note Level>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note Level %lld"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note Level %lld"
+          }
+        }
+      }
+    },
+    "label.text.numbering-level-%lld" : {
+      "comment" : "Label: Number Level <Numbering Level>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Numbering Level %lld"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numbering Level %lld"
+          }
+        }
+      }
+    },
+    "label.text.numbering-style" : {
+      "comment" : "Label: Numbering Style",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Numbering Style"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numbering Style"
+          }
+        }
+      }
+    },
+    "label.text.on-my-device" : {
+      "comment" : "On My <device>",
+      "localizations" : {
+        "de" : {
+          "variations" : {
+            "device" : {
+              "appletv" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "On My Apple TV"
+                }
+              },
+              "applevision" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "On My Apple Vision"
+                }
+              },
+              "applewatch" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "On My Apple Watch"
+                }
+              },
+              "ipad" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "On My iPad"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "On My iPhone"
+                }
+              },
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "On My iPod"
+                }
+              },
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "On My Mac"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "On My Device"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "device" : {
+              "appletv" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My Apple TV"
+                }
+              },
+              "applevision" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My Apple Vision"
+                }
+              },
+              "applewatch" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My Apple Watch"
+                }
+              },
+              "ipad" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My iPad"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My iPhone"
+                }
+              },
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My iPod"
+                }
+              },
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My Mac"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "On My Device"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "label.text.opml-ownership-description" : {
+      "comment" : "Label: This information is included in OPML documents to attribute ownership.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This information is included in OPML documents to attribute ownership."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This information is included in OPML documents to attribute ownership."
+          }
+        }
+      }
+    },
+    "label.text.outline" : {
+      "comment" : "Label: Outline\nOutline",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Outline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outline"
+          }
+        }
+      }
+    },
+    "label.text.outline-defaults" : {
+      "comment" : "Label: Outline Defaults",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Outline Defaults"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outline Defaults"
+          }
+        }
+      }
+    },
+    "label.text.outline-detail" : {
+      "comment" : "Outline Detail",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Outline Detail"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outline Detail"
+          }
+        }
+      }
+    },
+    "label.text.outline-owner" : {
+      "comment" : "Label: Outline Owner",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Outline Owner"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outline Owner"
+          }
+        }
+      }
+    },
+    "label.text.outside" : {
+      "comment" : "Outside",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Outside"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outside"
+          }
+        }
+      }
+    },
+    "label.text.owner" : {
+      "comment" : "Label: Owner",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Owner"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner"
+          }
+        }
+      }
+    },
+    "label.text.owner-email" : {
+      "comment" : "Owner Email",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Owner Email"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner Email"
+          }
+        }
+      }
+    },
+    "label.text.owner-name" : {
+      "comment" : "Owner Name",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Owner Name"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner Name"
+          }
+        }
+      }
+    },
+    "label.text.owner-url" : {
+      "comment" : "Owner URL",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Owner URL"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Owner URL"
+          }
+        }
+      }
+    },
+    "label.text.preferences-with-ellipsis" : {
+      "comment" : "Label: Preferences…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferences…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences…"
+          }
+        }
+      }
+    },
+    "label.text.primary-text" : {
+      "comment" : "Label: Primary Text",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Primary Text"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primary Text"
+          }
+        }
+      }
+    },
+    "label.text.privacy-policy" : {
+      "comment" : "Label: Privacy Policy",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Privacy Policy"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        }
+      }
+    },
+    "label.text.quaternary-text" : {
+      "comment" : "Label: Quaternary Text",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Quaternary Text"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quaternary Text"
+          }
+        }
+      }
+    },
+    "label.text.readable" : {
+      "comment" : "Label: Readable",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Readable"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Readable"
+          }
+        }
+      }
+    },
+    "label.text.reference" : {
+      "comment" : "Label: Reference: ",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reference"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reference"
+          }
+        }
+      }
+    },
+    "label.text.references" : {
+      "comment" : "Label: References: ",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "References: "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "References: "
+          }
+        }
+      }
+    },
+    "label.text.release-notes" : {
+      "comment" : "Label: Release Notes",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Release Notes"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Release Notes"
+          }
+        }
+      }
+    },
+    "label.text.remove-icloud-account" : {
+      "comment" : "Label: Remove iCloud Account",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove iCloud Account"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove iCloud Account"
+          }
+        }
+      }
+    },
+    "label.text.remove-icloud-account-message" : {
+      "comment" : "Label: Are you sure you want to remove the iCloud Account? All documents in the iCloud Account will be removed from this computer.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to remove the iCloud Account? All documents in the iCloud Account will be removed from this computer."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to remove the iCloud Account? All documents in the iCloud Account will be removed from this computer."
+          }
+        }
+      }
+    },
+    "label.text.restore-defaults" : {
+      "comment" : "Label: Restore Defaults",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "References: "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "References: "
+          }
+        }
+      }
+    },
+    "label.text.restore-defaults-message" : {
+      "comment" : "Label: Are you sure you want to restore the defaults? All your font customizations will be lost.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to restore the defaults? All your font customizations will be lost."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to restore the defaults? All your font customizations will be lost."
+          }
+        }
+      }
+    },
+    "label.text.row" : {
+      "comment" : "Row",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Row"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Row"
+          }
+        }
+      }
+    },
+    "label.text.row-completion-state" : {
+      "comment" : "Row Completion State",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Row Completion State"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Row Completion State"
+          }
+        }
+      }
+    },
+    "label.text.row-destination" : {
+      "comment" : "Row Destination",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Row Destination"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Row Destination"
+          }
+        }
+      }
+    },
+    "label.text.row-detail" : {
+      "comment" : "Row Detail",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Row Detail"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Row Detail"
+          }
+        }
+      }
+    },
+    "label.text.row-expanded-state" : {
+      "comment" : "Row Expanded State",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Row Expanded State"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Row Expanded State"
+          }
+        }
+      }
+    },
+    "label.text.row-indent" : {
+      "comment" : "Label: Row Indent",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Row Indent"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Row Indent"
+          }
+        }
+      }
+    },
+    "label.text.row-spacing" : {
+      "comment" : "Label: Row Spacing",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Row Spacing"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Row Spacing"
+          }
+        }
+      }
+    },
+    "label.text.scroll-mode" : {
+      "comment" : "Label: Scroll Mode",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scroll Mode"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scroll Mode"
+          }
+        }
+      }
+    },
+    "label.text.search" : {
+      "comment" : "Label: Search",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "label.text.secondary-text" : {
+      "comment" : "Label: Secondary Text",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Secondary Text"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Secondary Text"
+          }
+        }
+      }
+    },
+    "label.text.see-documents-in-container-%@" : {
+      "comment" : "Label:  See documents in “<Document Container Title>”",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "See documents in ”%@”"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See documents in ”%@”"
+          }
+        }
+      }
+    },
+    "label.text.settings" : {
+      "comment" : "Label: Settings",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Settings"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "label.text.settings-with-ellipsis" : {
+      "comment" : "Label: Settings…",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Settings…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings…"
+          }
+        }
+      }
+    },
+    "label.text.share" : {
+      "comment" : "Share",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Share"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share"
+          }
+        }
+      }
+    },
+    "label.text.statistics" : {
+      "comment" : "Label: Statistics",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Statistics"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistics"
+          }
+        }
+      }
+    },
+    "label.text.tag" : {
+      "comment" : "Label: Tag",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tag"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag"
+          }
+        }
+      }
+    },
+    "label.text.tags" : {
+      "comment" : "Label: Tags\nTags",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tags"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tags"
+          }
+        }
+      }
+    },
+    "label.text.tertiary-text" : {
+      "comment" : "Label: Tertiary Text",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tertiary Text"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tertiary Text"
+          }
+        }
+      }
+    },
+    "label.text.title" : {
+      "comment" : "Font Label: Title\nTitle",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Title"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Title"
+          }
+        }
+      }
+    },
+    "label.text.topic" : {
+      "comment" : "Topic\ntopic",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Topic"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Topic"
+          }
+        }
+      }
+    },
+    "label.text.topic-level-%lld" : {
+      "comment" : "Label: Topic Level <Topic Level>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Topic Level %lld"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Topic Level %lld"
+          }
+        }
+      }
+    },
+    "label.text.typewriter" : {
+      "comment" : "Label: Typewriter",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Typewriter"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typewriter"
+          }
+        }
+      }
+    },
+    "label.text.typing" : {
+      "comment" : "Label: Typing",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Typing"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typing"
+          }
+        }
+      }
+    },
+    "label.text.uncomplete" : {
+      "comment" : "Uncomplete",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Uncomplete"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uncomplete"
+          }
+        }
+      }
+    },
+    "label.text.undo-menu" : {
+      "comment" : "Label: Undo Menu",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Undo Menu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo Menu"
+          }
+        }
+      }
+    },
+    "label.text.updated" : {
+      "comment" : "Label: Updated\nUpdated",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Updated"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updated"
+          }
+        }
+      }
+    },
+    "label.text.updated-on-%@-at-%@" : {
+      "comment" : "Label: Updated on <Date> at <Time>",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Updated on %1$@ at %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updated on %1$@ at %2$@"
+          }
+        }
+      }
+    },
+    "label.text.url" : {
+      "comment" : "Label: URL\nURL",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "URL"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        }
+      }
+    },
+    "label.text.website" : {
+      "comment" : "Label: Website",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Website"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Website"
+          }
+        }
+      }
+    },
+    "label.text.word-count" : {
+      "comment" : "Label: Word Count",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Word Count"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Word Count"
+          }
+        }
+      }
+    },
+    "label.text.zavala-help" : {
+      "comment" : "Label: Zavala Help",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Zavala Help"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zavala Help"
+          }
+        }
+      }
+    },
+    "label.title.collections" : {
+      "comment" : "Label: Collections",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Collections"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collections"
+          }
+        }
+      }
+    },
+    "outline.action.collapse-parent-row" : {
+      "comment" : "Outline Action: Collapse Parent Row",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Collapse Parent Row"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse Parent Row"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
